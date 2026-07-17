@@ -1,0 +1,325 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.nea.com/portfolio
+summary:
+  portfolio_total: 30
+  in_network: 10
+  api_providers: 10
+  missing: 20
+  stubs_created: 0
+companies:
+- name: Cloudflare
+  url: https://www.cloudflare.com
+  description: Global connectivity cloud providing security, performance, and reliability services for
+    websites and APIs.
+  sector: infrastructure
+  stage: growth
+  status: ipo
+  source: https://www.nea.com/portfolio
+  slug: cloudflare
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Databricks
+  url: https://www.databricks.com
+  description: Data and AI lakehouse platform for analytics, machine learning, and data engineering.
+  sector: data-ai
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  slug: databricks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Merge
+  url: https://www.merge.dev
+  description: Unified API for adding hundreds of HR, payroll, accounting, ticketing, and CRM integrations.
+  sector: developer-tools
+  stage: series-b
+  status: active
+  source: https://www.nea.com/portfolio
+  slug: merge
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pulumi
+  url: https://www.pulumi.com
+  description: Infrastructure-as-code platform for building, deploying, and managing cloud infrastructure
+    using real programming languages.
+  sector: developer-tools
+  stage: series-b
+  status: active
+  source: https://www.nea.com/portfolio
+  slug: pulumi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sana
+  url: https://www.sanalabs.com
+  description: AI-powered learning and knowledge platform for organizations.
+  sector: enterprise-ai
+  stage: early
+  status: acquired
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sana
+- name: MongoDB
+  url: https://www.mongodb.com
+  description: General-purpose document database and developer data platform.
+  sector: developer-tools
+  stage: growth
+  status: ipo
+  source: https://www.nea.com/portfolio
+  slug: mongodb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Coursera
+  url: https://www.coursera.org
+  description: Online learning platform offering courses, certificates, and degrees from universities
+    and companies.
+  sector: consumer
+  stage: growth
+  status: ipo
+  source: https://www.nea.com/portfolio
+  slug: coursera
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Perplexity
+  url: https://www.perplexity.ai
+  description: AI-powered answer engine and conversational search product.
+  sector: consumer-ai
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  slug: perplexity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fizz
+  url: https://fizzsocial.app
+  description: Peer-moderated social platform for hyper-local college campus communities.
+  sector: consumer
+  stage: early
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fizz
+- name: Kindred
+  url: https://livekindred.com
+  description: Members-only home-swapping marketplace enabling affordable travel.
+  sector: consumer
+  stage: early
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kindred
+- name: Patreon
+  url: https://www.patreon.com
+  description: Membership platform that lets creators earn recurring income from their audiences.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  slug: patreon
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pair Eyewear
+  url: https://paireyewear.com
+  description: Direct-to-consumer customizable eyewear brand.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pair-eyewear
+- name: Plaid
+  url: https://plaid.com
+  description: Financial data network connecting apps and services to users' bank accounts.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  slug: plaid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: GoodLeap
+  url: https://www.goodleap.com
+  description: Sustainable home-improvement financing marketplace and point-of-sale lending platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: goodleap
+- name: Robinhood
+  url: https://robinhood.com
+  description: Commission-free investing and financial services app.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: robinhood
+- name: Narmi
+  url: https://www.narmi.com
+  description: Digital banking platform powering online and mobile banking for financial institutions.
+  sector: fintech
+  stage: series-b
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: narmi
+- name: Ledge
+  url: https://www.ledge.co
+  description: AI-powered accounting and close-management platform automating financial operations.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ledge
+- name: Slash
+  url: https://www.joinslash.com
+  description: Fintech company building banking and payments for modern businesses.
+  sector: fintech
+  stage: early
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: slash
+- name: InterMune
+  url: https://www.intermune.com
+  description: Biopharmaceutical company focused on pulmonary and fibrotic diseases (acquired by Roche).
+  sector: life-sciences
+  stage: growth
+  status: acquired
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: intermune
+- name: Trillium Therapeutics
+  url: https://www.trilliumtherapeutics.com
+  description: Immuno-oncology company developing innovative cancer therapies (acquired by Pfizer).
+  sector: life-sciences
+  stage: growth
+  status: acquired
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trillium-therapeutics
+- name: NeoTract
+  url: https://www.neotract.com
+  description: Medical device company treating benign prostatic hyperplasia via the UroLift system (acquired
+    by Teleflex).
+  sector: medical-devices
+  stage: growth
+  status: acquired
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: neotract
+- name: CRISPR Therapeutics
+  url: https://www.crisprtx.com
+  description: Gene-editing biopharmaceutical company developing CRISPR/Cas9-based medicines.
+  sector: life-sciences
+  stage: growth
+  status: ipo
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crispr-therapeutics
+- name: MBX Biosciences
+  url: https://www.mbxbio.com
+  description: Clinical-stage biopharmaceutical company developing precision endocrine peptide therapies.
+  sector: life-sciences
+  stage: growth
+  status: ipo
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mbx-biosciences
+- name: Escient Pharmaceuticals
+  url: https://www.escientpharma.com
+  description: Biopharmaceutical company developing therapies targeting MRGPRs for inflammatory and pruritic
+    diseases (acquired by Incyte).
+  sector: life-sciences
+  stage: growth
+  status: acquired
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: escient-pharmaceuticals
+- name: Tempus
+  url: https://www.tempus.com
+  description: Precision-medicine company using AI and data to advance cancer and disease care.
+  sector: digital-health
+  stage: growth
+  status: ipo
+  source: https://www.nea.com/portfolio
+  slug: tempus-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Strive Health
+  url: https://strivehealth.com
+  description: Value-based kidney care provider using technology and personalized care.
+  sector: digital-health
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: strive-health
+- name: Radiology Partners
+  url: https://www.radiologypartners.com
+  description: Physician-led radiology practice delivering diagnostic imaging services nationwide.
+  sector: digital-health
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: radiology-partners
+- name: Marathon Health
+  url: https://www.marathon-health.com
+  description: Provider of employer-sponsored primary and preventive health centers.
+  sector: digital-health
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: marathon-health
+- name: Curana Health
+  url: https://curanahealth.com
+  description: Value-based care platform serving senior living and long-term care populations.
+  sector: digital-health
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: curana-health
+- name: Comprehensive Pharmacy Services
+  url: https://www.cpspharm.com
+  description: Provider of outsourced pharmacy management services to hospitals and health systems.
+  sector: digital-health
+  stage: growth
+  status: active
+  source: https://www.nea.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: comprehensive-pharmacy-services

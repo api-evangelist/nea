@@ -1,0 +1,76 @@
+aid: nea
+name: New Enterprise Associates
+description: >-
+  New Enterprise Associates (NEA) is one of the world's largest and longest-running
+  venture capital firms, founded in 1977 by Dick Kramlich, Chuck Newhall, and Frank
+  Bonsal. Headquartered in Menlo Park, California, with offices in Timonium (Maryland),
+  New York, and London, NEA invests across the full company lifecycle — "from idea to
+  IPO" — spanning seed, Series A, and later growth rounds. The firm has raised over
+  $27 billion in committed capital (as of December 31, 2024) and organizes into
+  specialized practice groups across two core sectors: technology (enterprise software,
+  consumer, fintech, AI, infrastructure) and healthcare (biopharma, life sciences,
+  digital health, and medical devices). NEA is known for an active, hands-on partnership
+  model and long-term support of category-defining companies, with a portfolio that has
+  produced many notable IPOs and acquisitions including Cloudflare, MongoDB, Robinhood,
+  Coursera, Databricks, Plaid, and Tempus.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://www.nea.com/favicon.ico
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Growth
+  - Technology
+  - Healthcare
+  - Fintech
+  - Artificial Intelligence
+  - Enterprise Software
+  - Life Sciences
+  - Digital Health
+  - United States
+apis: []
+common:
+  - type: Website
+    url: https://www.nea.com
+  - type: Portfolio
+    url: https://www.nea.com/portfolio
+  - type: Portfolio
+    url: https://www.nea.com/portfolio/nea-portfolio.yml
+  - type: Team
+    url: https://www.nea.com/team
+  - type: Team
+    url: https://www.nea.com/team/nea-team.yml
+  - type: InvestmentThesis
+    url: https://www.nea.com/about
+  - type: Blog
+    url: https://www.nea.com/blog
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/new-enterprise-associates
+  - type: Twitter
+    url: https://twitter.com/NEA
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/new-enterprise-associates
+  - type: Features
+    data:
+      - 'Stage: Seed, Series A, Growth (idea to IPO)'
+      - 'Sectors: technology (enterprise software, consumer, fintech, AI, infrastructure) and healthcare (biopharma, life sciences, digital health, medical devices)'
+      - 'Geography: United States (Menlo Park, Timonium, New York) and Europe (London)'
+      - 'AUM: $27B+ committed capital (self-reported, as of Dec 31 2024)'
+      - 'Founded: 1977'
+      - 'HQ: Menlo Park, CA'
+    sources:
+      - https://www.nea.com/about
+      - https://en.wikipedia.org/wiki/New_Enterprise_Associates
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: New Enterprise Associates
+    url: https://www.nea.com

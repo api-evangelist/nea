@@ -1,0 +1,144 @@
+generated: '2026-07-17'
+method: derived
+source_vc: nea
+leads:
+- name: Sana
+  url: https://www.sanalabs.com
+  suggested_slug: sana
+  sector: enterprise-ai
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Fizz
+  url: https://fizzsocial.app
+  suggested_slug: fizz
+  sector: consumer
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Kindred
+  url: https://livekindred.com
+  suggested_slug: kindred
+  sector: consumer
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Pair Eyewear
+  url: https://paireyewear.com
+  suggested_slug: pair-eyewear
+  sector: consumer
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: GoodLeap
+  url: https://www.goodleap.com
+  suggested_slug: goodleap
+  sector: fintech
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Robinhood
+  url: https://robinhood.com
+  suggested_slug: robinhood
+  sector: fintech
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Narmi
+  url: https://www.narmi.com
+  suggested_slug: narmi
+  sector: fintech
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Ledge
+  url: https://www.ledge.co
+  suggested_slug: ledge
+  sector: fintech
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Slash
+  url: https://www.joinslash.com
+  suggested_slug: slash
+  sector: fintech
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: InterMune
+  url: https://www.intermune.com
+  suggested_slug: intermune
+  sector: life-sciences
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Trillium Therapeutics
+  url: https://www.trilliumtherapeutics.com
+  suggested_slug: trillium-therapeutics
+  sector: life-sciences
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: NeoTract
+  url: https://www.neotract.com
+  suggested_slug: neotract
+  sector: medical-devices
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: CRISPR Therapeutics
+  url: https://www.crisprtx.com
+  suggested_slug: crispr-therapeutics
+  sector: life-sciences
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: MBX Biosciences
+  url: https://www.mbxbio.com
+  suggested_slug: mbx-biosciences
+  sector: life-sciences
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Escient Pharmaceuticals
+  url: https://www.escientpharma.com
+  suggested_slug: escient-pharmaceuticals
+  sector: life-sciences
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Strive Health
+  url: https://strivehealth.com
+  suggested_slug: strive-health
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Radiology Partners
+  url: https://www.radiologypartners.com
+  suggested_slug: radiology-partners
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Marathon Health
+  url: https://www.marathon-health.com
+  suggested_slug: marathon-health
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Curana Health
+  url: https://curanahealth.com
+  suggested_slug: curana-health
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Comprehensive Pharmacy Services
+  url: https://www.cpspharm.com
+  suggested_slug: comprehensive-pharmacy-services
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
