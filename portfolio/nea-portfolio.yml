@@ -3,9 +3,9 @@ method: searched
 source: https://www.nea.com/portfolio
 summary:
   portfolio_total: 30
-  in_network: 10
-  api_providers: 10
-  missing: 20
+  in_network: 30
+  api_providers: 14
+  missing: 0
   stubs_created: 0
 companies:
 - name: Cloudflare
@@ -61,9 +61,10 @@ companies:
   stage: early
   status: acquired
   source: https://www.nea.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: sana
+  in_network: true
+  is_api_provider: true
+  slug: sana
+  matched_by: domain
 - name: MongoDB
   url: https://www.mongodb.com
   description: General-purpose document database and developer data platform.
@@ -105,9 +106,10 @@ companies:
   stage: early
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fizz
+  slug: fizz
+  matched_by: name-slug
 - name: Kindred
   url: https://livekindred.com
   description: Members-only home-swapping marketplace enabling affordable travel.
@@ -115,9 +117,10 @@ companies:
   stage: early
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kindred
+  slug: kindred
+  matched_by: domain
 - name: Patreon
   url: https://www.patreon.com
   description: Membership platform that lets creators earn recurring income from their audiences.
@@ -136,9 +139,10 @@ companies:
   stage: seed
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pair-eyewear
+  slug: paireyewear
+  matched_by: domain
 - name: Plaid
   url: https://plaid.com
   description: Financial data network connecting apps and services to users' bank accounts.
@@ -157,9 +161,10 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: goodleap
+  slug: goodleap
+  matched_by: domain
 - name: Robinhood
   url: https://robinhood.com
   description: Commission-free investing and financial services app.
@@ -167,9 +172,10 @@ companies:
   stage: growth
   status: ipo
   source: https://www.nea.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: robinhood
+  in_network: true
+  is_api_provider: true
+  slug: robinhood
+  matched_by: domain
 - name: Narmi
   url: https://www.narmi.com
   description: Digital banking platform powering online and mobile banking for financial institutions.
@@ -177,9 +183,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: narmi
+  in_network: true
+  is_api_provider: true
+  slug: narmi
+  matched_by: domain
 - name: Ledge
   url: https://www.ledge.co
   description: AI-powered accounting and close-management platform automating financial operations.
@@ -187,9 +194,10 @@ companies:
   stage: seed
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: ledge
+  in_network: true
+  is_api_provider: true
+  slug: ledge
+  matched_by: domain
 - name: Slash
   url: https://www.joinslash.com
   description: Fintech company building banking and payments for modern businesses.
@@ -197,9 +205,10 @@ companies:
   stage: early
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: slash
+  in_network: true
+  is_api_provider: true
+  slug: slash
+  matched_by: name-slug
 - name: InterMune
   url: https://www.intermune.com
   description: Biopharmaceutical company focused on pulmonary and fibrotic diseases (acquired by Roche).
@@ -207,9 +216,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: intermune
+  slug: intermune
+  matched_by: domain
 - name: Trillium Therapeutics
   url: https://www.trilliumtherapeutics.com
   description: Immuno-oncology company developing innovative cancer therapies (acquired by Pfizer).
@@ -217,9 +227,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trillium-therapeutics
+  slug: trillium-therapeutics
+  matched_by: domain
 - name: NeoTract
   url: https://www.neotract.com
   description: Medical device company treating benign prostatic hyperplasia via the UroLift system (acquired
@@ -228,9 +239,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: neotract
+  slug: neotract
+  matched_by: domain
 - name: CRISPR Therapeutics
   url: https://www.crisprtx.com
   description: Gene-editing biopharmaceutical company developing CRISPR/Cas9-based medicines.
@@ -238,9 +250,10 @@ companies:
   stage: growth
   status: ipo
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: crispr-therapeutics
+  slug: crispr-therapeutics
+  matched_by: domain
 - name: MBX Biosciences
   url: https://www.mbxbio.com
   description: Clinical-stage biopharmaceutical company developing precision endocrine peptide therapies.
@@ -248,9 +261,10 @@ companies:
   stage: growth
   status: ipo
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mbx-biosciences
+  slug: mbxbio
+  matched_by: domain
 - name: Escient Pharmaceuticals
   url: https://www.escientpharma.com
   description: Biopharmaceutical company developing therapies targeting MRGPRs for inflammatory and pruritic
@@ -259,9 +273,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: escient-pharmaceuticals
+  slug: escient-pharmaceuticals
+  matched_by: domain
 - name: Tempus
   url: https://www.tempus.com
   description: Precision-medicine company using AI and data to advance cancer and disease care.
@@ -271,7 +286,7 @@ companies:
   source: https://www.nea.com/portfolio
   slug: tempus-ai
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Strive Health
   url: https://strivehealth.com
@@ -280,9 +295,10 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: strive-health
+  slug: strive-health
+  matched_by: domain
 - name: Radiology Partners
   url: https://www.radiologypartners.com
   description: Physician-led radiology practice delivering diagnostic imaging services nationwide.
@@ -290,9 +306,10 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: radiology-partners
+  slug: radiology-partners
+  matched_by: name-slug
 - name: Marathon Health
   url: https://www.marathon-health.com
   description: Provider of employer-sponsored primary and preventive health centers.
@@ -300,9 +317,10 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marathon-health
+  slug: marathon-health
+  matched_by: name-slug
 - name: Curana Health
   url: https://curanahealth.com
   description: Value-based care platform serving senior living and long-term care populations.
@@ -310,9 +328,10 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: curana-health
+  slug: curana-health
+  matched_by: domain
 - name: Comprehensive Pharmacy Services
   url: https://www.cpspharm.com
   description: Provider of outsourced pharmacy management services to hospitals and health systems.
@@ -320,6 +339,7 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: comprehensive-pharmacy-services
+  slug: comprehensive-pharmacy-services
+  matched_by: name-slug
