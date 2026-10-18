@@ -1,4 +1,39 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: nea
-leads: []
+leads:
+- name: Fizz
+  url: https://fizzsocial.app
+  suggested_slug: fizzsocial-app
+  sector: consumer
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Slash
+  url: https://www.joinslash.com
+  suggested_slug: joinslash-com
+  sector: fintech
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Radiology Partners
+  url: https://www.radiologypartners.com
+  suggested_slug: radiologypartners-com
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Marathon Health
+  url: https://www.marathon-health.com
+  suggested_slug: marathon-health-com
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false
+- name: Comprehensive Pharmacy Services
+  url: https://www.cpspharm.com
+  suggested_slug: cpspharm-com
+  sector: digital-health
+  source_vc: nea
+  source: https://www.nea.com/portfolio
+  stub_created: false

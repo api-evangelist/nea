@@ -3,9 +3,9 @@ method: searched
 source: https://www.nea.com/portfolio
 summary:
   portfolio_total: 30
-  in_network: 30
+  in_network: 25
   api_providers: 14
-  missing: 0
+  missing: 5
   stubs_created: 0
 companies:
 - name: Cloudflare
@@ -106,10 +106,10 @@ companies:
   stage: early
   status: active
   source: https://www.nea.com/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: fizz
-  matched_by: name-slug
+  x-name-collision: fizz
+  suggested_slug: fizzsocial-app
 - name: Kindred
   url: https://livekindred.com
   description: Members-only home-swapping marketplace enabling affordable travel.
@@ -141,7 +141,7 @@ companies:
   source: https://www.nea.com/portfolio
   in_network: true
   is_api_provider: false
-  slug: paireyewear
+  slug: pair-eyewear
   matched_by: domain
 - name: Plaid
   url: https://plaid.com
@@ -162,8 +162,8 @@ companies:
   status: active
   source: https://www.nea.com/portfolio
   in_network: true
-  is_api_provider: false
-  slug: goodleap
+  is_api_provider: true
+  slug: good-leap
   matched_by: domain
 - name: Robinhood
   url: https://robinhood.com
@@ -205,10 +205,10 @@ companies:
   stage: early
   status: active
   source: https://www.nea.com/portfolio
-  in_network: true
-  is_api_provider: true
-  slug: slash
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: slash
+  suggested_slug: joinslash-com
 - name: InterMune
   url: https://www.intermune.com
   description: Biopharmaceutical company focused on pulmonary and fibrotic diseases (acquired by Roche).
@@ -306,10 +306,10 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: radiology-partners
-  matched_by: name-slug
+  x-name-collision: radiology-partners
+  suggested_slug: radiologypartners-com
 - name: Marathon Health
   url: https://www.marathon-health.com
   description: Provider of employer-sponsored primary and preventive health centers.
@@ -317,10 +317,10 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: marathon-health
-  matched_by: name-slug
+  x-name-collision: marathon-health
+  suggested_slug: marathon-health-com
 - name: Curana Health
   url: https://curanahealth.com
   description: Value-based care platform serving senior living and long-term care populations.
@@ -339,7 +339,7 @@ companies:
   stage: growth
   status: active
   source: https://www.nea.com/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: comprehensive-pharmacy-services
-  matched_by: name-slug
+  x-name-collision: comprehensive-pharmacy-services
+  suggested_slug: cpspharm-com
