@@ -58,13 +58,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/3ware
   stub_created: false
-- name: 42Floors
-  url: ''
-  suggested_slug: 42floors
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/42floors
-  stub_created: false
 - name: Acadia Pharmaceuticals
   url: ''
   suggested_slug: acadia-pharmaceuticals
@@ -94,7 +87,7 @@ leads:
   source: https://www.nea.com/portfolio/acrivon-therapeutics
   stub_created: false
 - name: Actions Semiconductor Co., Ltd.
-  url: ''
+  url: https://www.actions-semi.com/
   suggested_slug: actions-semiconductor-co-ltd
   sector: ''
   source_vc: nea
@@ -199,14 +192,14 @@ leads:
   source: https://www.nea.com/portfolio/alexza-pharmaceuticals
   stub_created: false
 - name: Alimera Sciences
-  url: ''
+  url: http://www.alimerasciences.com
   suggested_slug: alimera-sciences
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/alimera-sciences
   stub_created: false
 - name: Allakos
-  url: ''
+  url: https://www.allakos.com
   suggested_slug: allakos
   sector: ''
   source_vc: nea
@@ -227,7 +220,7 @@ leads:
   source: https://www.nea.com/portfolio/amber-therapeutics
   stub_created: false
 - name: American Pathology Partners
-  url: ''
+  url: https://www.ap2.com/
   suggested_slug: american-pathology-partners
   sector: ''
   source_vc: nea
@@ -324,13 +317,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/argon-networks
   stub_created: false
-- name: Arris
-  url: ''
-  suggested_slug: arris
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/arris
-  stub_created: false
 - name: Aspect Medical
   url: ''
   suggested_slug: aspect-medical
@@ -395,7 +381,7 @@ leads:
   source: https://www.nea.com/portfolio/aviadobio
   stub_created: false
 - name: Baihe Holding Corporation
-  url: ''
+  url: https://i.baihe.com/
   suggested_slug: baihe-holding-corporation
   sector: ''
   source_vc: nea
@@ -409,7 +395,7 @@ leads:
   source: https://www.nea.com/portfolio/bay-networks
   stub_created: false
 - name: BCD Semiconductor
-  url: ''
+  url: https://www.bcdsemi.com
   suggested_slug: bcd-semiconductor
   sector: ''
   source_vc: nea
@@ -423,14 +409,14 @@ leads:
   source: https://www.nea.com/portfolio/beachmint
   stub_created: false
 - name: BedRocket Media
-  url: ''
+  url: https://sportsrocket.com/
   suggested_slug: bedrocket-media
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/bedrocket-media
   stub_created: false
 - name: Belly
-  url: ''
+  url: https://www.bellycard.com
   suggested_slug: belly
   sector: ''
   source_vc: nea
@@ -465,14 +451,14 @@ leads:
   source: https://www.nea.com/portfolio/black-diamond-therapeutics
   stub_created: false
 - name: BlockCypher
-  url: ''
+  url: https://www.blockcypher.com
   suggested_slug: blockcypher
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/blockcypher
   stub_created: false
 - name: Blue Cheetah
-  url: ''
+  url: https://www.bcanalog.com/
   suggested_slug: blue-cheetah
   sector: ''
   source_vc: nea
@@ -493,7 +479,7 @@ leads:
   source: https://www.nea.com/portfolio/bnto
   stub_created: false
 - name: Boingo Wireless
-  url: ''
+  url: https://www.boingo.com/
   suggested_slug: boingo-wireless
   sector: ''
   source_vc: nea
@@ -541,13 +527,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/burrow
   stub_created: false
-- name: Bytedance (Toutiao)
-  url: ''
-  suggested_slug: bytedance-toutiao
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/bytedance-toutiao
-  stub_created: false
 - name: Cadence Pharmaceuticals
   url: ''
   suggested_slug: cadence-pharmaceuticals
@@ -570,7 +549,7 @@ leads:
   source: https://www.nea.com/portfolio/candy
   stub_created: false
 - name: Cardionomic
-  url: ''
+  url: https://www.cardionomicinc.com/
   suggested_slug: cardionomic
   sector: ''
   source_vc: nea
@@ -605,7 +584,7 @@ leads:
   source: https://www.nea.com/portfolio/cardurion
   stub_created: false
 - name: CareerBuilder
-  url: ''
+  url: https://www.careerbuilder.com/
   suggested_slug: careerbuilder
   sector: ''
   source_vc: nea
@@ -640,21 +619,14 @@ leads:
   source: https://www.nea.com/portfolio/cascadian-therapeutics
   stub_created: false
 - name: Catalyst Biosciences
-  url: ''
+  url: https://www.catalystbiosciences.com/
   suggested_slug: catalyst-biosciences
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/catalyst-biosciences
   stub_created: false
-- name: Catalytic
-  url: ''
-  suggested_slug: catalytic
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/catalytic
-  stub_created: false
 - name: Cathay Industrial Biotech, Ltd.
-  url: ''
+  url: http://m.cathaybiotech.com/index.aspx
   suggested_slug: cathay-industrial-biotech-ltd
   sector: ''
   source_vc: nea
@@ -675,28 +647,28 @@ leads:
   source: https://www.nea.com/portfolio/celcuity
   stub_created: false
 - name: Centralize
-  url: ''
+  url: https://www.usecentralize.com/
   suggested_slug: centralize
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/centralize
   stub_created: false
 - name: Cerecor Inc.
-  url: ''
+  url: https://www.avalotx.com
   suggested_slug: cerecor-inc
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/cerecor
   stub_created: false
 - name: Change.io
-  url: ''
+  url: https://getchange.io/
   suggested_slug: changeio
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/change-io
   stub_created: false
 - name: ChannelAdvisor
-  url: ''
+  url: https://www.channeladvisor.com
   suggested_slug: channeladvisor
   sector: ''
   source_vc: nea
@@ -731,14 +703,14 @@ leads:
   source: https://www.nea.com/portfolio/china-health-citic
   stub_created: false
 - name: Cirrus Logic
-  url: ''
+  url: https://www.cirrus.com/
   suggested_slug: cirrus-logic
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/cirrus-logic
   stub_created: false
 - name: Cista
-  url: ''
+  url: http://www.cistadesign.com
   suggested_slug: cista
   sector: ''
   source_vc: nea
@@ -758,15 +730,8 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/clarvista-medical
   stub_created: false
-- name: ClearMetal
-  url: ''
-  suggested_slug: clearmetal
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/clearmetal
-  stub_created: false
 - name: Cleave Biosciences
-  url: ''
+  url: https://cleavetherapeutics.com
   suggested_slug: cleave-biosciences
   sector: ''
   source_vc: nea
@@ -794,18 +759,11 @@ leads:
   source: https://www.nea.com/portfolio/clockwork
   stub_created: false
 - name: Clovis Oncology
-  url: ''
+  url: https://www.clovisoncology.com/
   suggested_slug: clovis-oncology
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/clovis-oncology
-  stub_created: false
-- name: Code42
-  url: ''
-  suggested_slug: code42
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/code42
   stub_created: false
 - name: CoEdition
   url: ''
@@ -899,7 +857,7 @@ leads:
   source: https://www.nea.com/portfolio/crowdmed
   stub_created: false
 - name: CTI Biopharma
-  url: ''
+  url: https://www.ctibiopharma.com
   suggested_slug: cti-biopharma
   sector: ''
   source_vc: nea
@@ -918,13 +876,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/curalate
-  stub_created: false
-- name: Curisium
-  url: ''
-  suggested_slug: curisium
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/curisium
   stub_created: false
 - name: Curzion Pharmaceuticals
   url: ''
@@ -1003,13 +954,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/deltastream
   stub_created: false
-- name: Desire2Learn
-  url: ''
-  suggested_slug: desire2learn
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/desire2learn
-  stub_created: false
 - name: Devices for Vascular Intervention
   url: ''
   suggested_slug: devices-for-vascular-intervention
@@ -1024,13 +968,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/diatide
   stub_created: false
-- name: Didi Chuxing
-  url: ''
-  suggested_slug: didi-chuxing
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/didi-chuxing
-  stub_created: false
 - name: Docent Health
   url: ''
   suggested_slug: docent-health
@@ -1039,14 +976,14 @@ leads:
   source: https://www.nea.com/portfolio/docent-health
   stub_created: false
 - name: DOTS Technology Corp
-  url: ''
+  url: http://www.dotscorp.com
   suggested_slug: dots-technology-corp
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/dots-technology-corp
   stub_created: false
 - name: Drobo
-  url: ''
+  url: https://www.drobo.com
   suggested_slug: drobo
   sector: ''
   source_vc: nea
@@ -1086,13 +1023,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/ebenx
-  stub_created: false
-- name: Echo Global Logistics
-  url: ''
-  suggested_slug: echo-global-logistics
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/echo-global-logistics
   stub_created: false
 - name: Echopass Corporation
   url: ''
@@ -1158,7 +1088,7 @@ leads:
   source: https://www.nea.com/portfolio/endotex
   stub_created: false
 - name: Engine Yard
-  url: ''
+  url: https://www.engineyard.com
   suggested_slug: engine-yard
   sector: ''
   source_vc: nea
@@ -1305,7 +1235,7 @@ leads:
   source: https://www.nea.com/portfolio/fibex
   stub_created: false
 - name: Financial Engines
-  url: ''
+  url: https://edelmanfinancialengines.com
   suggested_slug: financial-engines
   sector: ''
   source_vc: nea
@@ -1354,7 +1284,7 @@ leads:
   source: https://www.nea.com/portfolio/flox
   stub_created: false
 - name: Folloze
-  url: ''
+  url: https://www.folloze.com
   suggested_slug: folloze
   sector: ''
   source_vc: nea
@@ -1438,7 +1368,7 @@ leads:
   source: https://www.nea.com/portfolio/gaikai
   stub_created: false
 - name: Galera Therapeutics
-  url: ''
+  url: https://www.galeratx.com
   suggested_slug: galera-therapeutics
   sector: ''
   source_vc: nea
@@ -1457,13 +1387,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/geltex-pharmaceuticals
-  stub_created: false
-- name: Gen.G
-  url: ''
-  suggested_slug: geng
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/gen-g
   stub_created: false
 - name: Genetic Therapy Inc.
   url: ''
@@ -1529,7 +1452,7 @@ leads:
   source: https://www.nea.com/portfolio/glycomimetics
   stub_created: false
 - name: Goji Solutions
-  url: ''
+  url: http://www.gojifoodsolutions.com
   suggested_slug: goji-solutions
   sector: ''
   source_vc: nea
@@ -1543,7 +1466,7 @@ leads:
   source: https://www.nea.com/portfolio/golden-analytics
   stub_created: false
 - name: Golden State Medical Supply
-  url: ''
+  url: https://gsms.us
   suggested_slug: golden-state-medical-supply
   sector: ''
   source_vc: nea
@@ -1599,7 +1522,7 @@ leads:
   source: https://www.nea.com/portfolio/green-chef
   stub_created: false
 - name: Grey Rhino
-  url: ''
+  url: https://greyrhino.ai/
   suggested_slug: grey-rhino
   sector: ''
   source_vc: nea
@@ -1654,13 +1577,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/hdmessaging
   stub_created: false
-- name: Hearsay Social
-  url: ''
-  suggested_slug: hearsay-social
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/hearsay-social
-  stub_created: false
 - name: HemoSense
   url: ''
   suggested_slug: hemosense
@@ -1676,14 +1592,14 @@ leads:
   source: https://www.nea.com/portfolio/hillcrest-laboratories
   stub_created: false
 - name: Hired
-  url: ''
+  url: https://hired.com
   suggested_slug: hired
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/hired
   stub_created: false
 - name: hOS
-  url: ''
+  url: https://www.hosinc.co/
   suggested_slug: hos
   sector: ''
   source_vc: nea
@@ -1704,7 +1620,7 @@ leads:
   source: https://www.nea.com/portfolio/hydra-biosciences-inc
   stub_created: false
 - name: HYGEIA Medical Services Group
-  url: ''
+  url: http://www.hygeiamedical.cn
   suggested_slug: hygeia-medical-services-group
   sector: ''
   source_vc: nea
@@ -1767,7 +1683,7 @@ leads:
   source: https://www.nea.com/portfolio/in-house-health
   stub_created: false
 - name: InCarey
-  url: ''
+  url: http://www.incarey.cn/
   suggested_slug: incarey
   sector: ''
   source_vc: nea
@@ -1809,7 +1725,7 @@ leads:
   source: https://www.nea.com/portfolio/innerworkings
   stub_created: false
 - name: Inozyme Pharma
-  url: ''
+  url: https://www.inozyme.com/
   suggested_slug: inozyme-pharma
   sector: ''
   source_vc: nea
@@ -1843,9 +1759,9 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/intellisys
   stub_created: false
-- name: NEA Portfolio
+- name: Interleukin Genetics
   url: ''
-  suggested_slug: nea-portfolio
+  suggested_slug: interleukin-genetics
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/interleukin-genetics
@@ -1858,14 +1774,14 @@ leads:
   source: https://www.nea.com/portfolio/intrinsic-therapeutics
   stub_created: false
 - name: Inventiva Pharma
-  url: ''
+  url: https://inventivapharma.com
   suggested_slug: inventiva-pharma
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/inventiva-pharma
   stub_created: false
 - name: Inversago
-  url: ''
+  url: https://inversago.com
   suggested_slug: inversago
   sector: ''
   source_vc: nea
@@ -1893,7 +1809,7 @@ leads:
   source: https://www.nea.com/portfolio/iopipe
   stub_created: false
 - name: Iridex Corporation
-  url: ''
+  url: https://iridex.com
   suggested_slug: iridex-corporation
   sector: ''
   source_vc: nea
@@ -1926,13 +1842,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/jet-com
-  stub_created: false
-- name: Juniper Networks
-  url: ''
-  suggested_slug: juniper-networks
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/juniper-networks
   stub_created: false
 - name: Kaazing
   url: ''
@@ -2026,7 +1935,7 @@ leads:
   source: https://www.nea.com/portfolio/leonabio
   stub_created: false
 - name: Lexicon Pharmaceuticals
-  url: ''
+  url: https://www.lexpharma.com
   suggested_slug: lexicon-pharmaceuticals
   sector: ''
   source_vc: nea
@@ -2054,18 +1963,11 @@ leads:
   source: https://www.nea.com/portfolio/limitless
   stub_created: false
 - name: Linekong International Co., Ltd.
-  url: ''
+  url: https://new.linekong.com
   suggested_slug: linekong-international-co-ltd
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/linekong-international-co-ltd
-  stub_created: false
-- name: Liquidia Corporation
-  url: ''
-  suggested_slug: liquidia-corporation
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/liquidia-corporation
   stub_created: false
 - name: Lithium Technologies
   url: ''
@@ -2124,14 +2026,14 @@ leads:
   source: https://www.nea.com/portfolio/luminary-micro
   stub_created: false
 - name: Lumos Pharma
-  url: ''
+  url: https://lumos-pharma.com
   suggested_slug: lumos-pharma
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/lumos-pharma
   stub_created: false
 - name: Lungpacer Medical
-  url: ''
+  url: https://www.lungpacer.com
   suggested_slug: lungpacer-medical
   sector: ''
   source_vc: nea
@@ -2201,42 +2103,35 @@ leads:
   source: https://www.nea.com/portfolio/matroid
   stub_created: false
 - name: ForAllSecure
-  url: ''
+  url: https://www.mayhem.security
   suggested_slug: forallsecure
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/mayhem
   stub_created: false
-- name: MediaOcean
-  url: ''
-  suggested_slug: mediaocean
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/mediaocean
-  stub_created: false
 - name: MediSys EduTech
-  url: ''
+  url: https://app.smarteach.com/medrc/default.html
   suggested_slug: medisys-edutech
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/medisys-edutech
   stub_created: false
 - name: MEI Pharma
-  url: ''
+  url: https://www.meipharma.com
   suggested_slug: mei-pharma
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/mei-pharma
   stub_created: false
 - name: Mersana
-  url: ''
+  url: https://www.mersana.com
   suggested_slug: mersana
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/mersana
   stub_created: false
 - name: Mimosa Networks
-  url: ''
+  url: https://mimosa.co/
   suggested_slug: mimosa-networks
   sector: ''
   source_vc: nea
@@ -2292,21 +2187,21 @@ leads:
   source: https://www.nea.com/portfolio/mobius-management-systems
   stub_created: false
 - name: Modyfi
-  url: ''
+  url: http://modyfi.com/
   suggested_slug: modyfi
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/modyfi
   stub_created: false
 - name: MoneyTap
-  url: ''
+  url: https://www.moneytap.com
   suggested_slug: moneytap
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/moneytap
   stub_created: false
 - name: Motion Computing
-  url: ''
+  url: https://motioncomputing.com
   suggested_slug: motion-computing
   sector: ''
   source_vc: nea
@@ -2325,13 +2220,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/motus-therapeutics
-  stub_created: false
-- name: Movius Interactive Corporation
-  url: ''
-  suggested_slug: movius-interactive-corporation
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/movius-interactive-corporation
   stub_created: false
 - name: Moximed
   url: ''
@@ -2369,7 +2257,7 @@ leads:
   source: https://www.nea.com/portfolio/namespace
   stub_created: false
 - name: Nefeli Networks
-  url: ''
+  url: https://nefeli.io
   suggested_slug: nefeli-networks
   sector: ''
   source_vc: nea
@@ -2425,7 +2313,7 @@ leads:
   source: https://www.nea.com/portfolio/neural-magic
   stub_created: false
 - name: Neuralieve
-  url: ''
+  url: https://www.eneura.com
   suggested_slug: neuralieve
   sector: ''
   source_vc: nea
@@ -2453,7 +2341,7 @@ leads:
   source: https://www.nea.com/portfolio/nevro
   stub_created: false
 - name: New Wave Foods
-  url: ''
+  url: https://www.newwavefoods.com/
   suggested_slug: new-wave-foods
   sector: ''
   source_vc: nea
@@ -2544,7 +2432,7 @@ leads:
   source: https://www.nea.com/portfolio/nordsense
   stub_created: false
 - name: Nova Fertility
-  url: ''
+  url: https://www.novaivf.com
   suggested_slug: nova-fertility
   sector: ''
   source_vc: nea
@@ -2556,13 +2444,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/novacept
-  stub_created: false
-- name: Novast Holdings Limited
-  url: ''
-  suggested_slug: novast-holdings-limited
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/novast-holdings-limited
   stub_created: false
 - name: Novatium
   url: ''
@@ -2593,7 +2474,7 @@ leads:
   source: https://www.nea.com/portfolio/nuelle
   stub_created: false
 - name: Obseva
-  url: ''
+  url: https://www.obseva.com
   suggested_slug: obseva
   sector: ''
   source_vc: nea
@@ -2670,21 +2551,21 @@ leads:
   source: https://www.nea.com/portfolio/ouro
   stub_created: false
 - name: Oyster Point
-  url: ''
+  url: https://oysterpointrx.com/
   suggested_slug: oyster-point
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/oyster-point
   stub_created: false
 - name: P-1
-  url: ''
+  url: https://p-1.ai/
   suggested_slug: p-1
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/p-1
   stub_created: false
 - name: Pacific Light & Hologram
-  url: ''
+  url: https://www.pacificlightandhologram.com
   suggested_slug: pacific-light-and-hologram
   sector: ''
   source_vc: nea
@@ -2698,7 +2579,7 @@ leads:
   source: https://www.nea.com/portfolio/packeteer
   stub_created: false
 - name: Panacea Medical Technologies
-  url: ''
+  url: http://www.panaceamedical.in
   suggested_slug: panacea-medical-technologies
   sector: ''
   source_vc: nea
@@ -2740,7 +2621,7 @@ leads:
   source: https://www.nea.com/portfolio/peplin
   stub_created: false
 - name: Personal Genome Diagnostics
-  url: ''
+  url: http://www.personalgenome.com/
   suggested_slug: personal-genome-diagnostics
   sector: ''
   source_vc: nea
@@ -2752,13 +2633,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/pharmion
-  stub_created: false
-- name: Phase Forward
-  url: ''
-  suggested_slug: phase-forward
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/phase-forward
   stub_created: false
 - name: PhaseBio Pharmaceuticals
   url: ''
@@ -2796,7 +2670,7 @@ leads:
   source: https://www.nea.com/portfolio/pinnacle-engines
   stub_created: false
 - name: PIONYR Immunotherapeutics
-  url: ''
+  url: https://www.pionyrtx.com
   suggested_slug: pionyr-immunotherapeutics
   sector: ''
   source_vc: nea
@@ -2824,7 +2698,7 @@ leads:
   source: https://www.nea.com/portfolio/polyserve
   stub_created: false
 - name: Popai
-  url: ''
+  url: https://www.popai.health/
   suggested_slug: popai
   sector: ''
   source_vc: nea
@@ -2859,7 +2733,7 @@ leads:
   source: https://www.nea.com/portfolio/predictive-biosciences
   stub_created: false
 - name: Prime Financial Technologies
-  url: ''
+  url: https://www.primeft.com/
   suggested_slug: prime-financial-technologies
   sector: ''
   source_vc: nea
@@ -2894,7 +2768,7 @@ leads:
   source: https://www.nea.com/portfolio/proxima-therapeutics
   stub_created: false
 - name: Psyadon Pharmaceuticals
-  url: ''
+  url: http://www.psyadonrx.com
   suggested_slug: psyadon-pharmaceuticals
   sector: ''
   source_vc: nea
@@ -2915,7 +2789,7 @@ leads:
   source: https://www.nea.com/portfolio/pyxis
   stub_created: false
 - name: Qpex Biopharma
-  url: ''
+  url: https://www.qpexbio.com
   suggested_slug: qpex-biopharma
   sector: ''
   source_vc: nea
@@ -2963,13 +2837,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/recludix-pharma
   stub_created: false
-- name: Red Ridge Bio
-  url: ''
-  suggested_slug: red-ridge-bio
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/red-ridge-bio
-  stub_created: false
 - name: Redbaby
   url: ''
   suggested_slug: redbaby
@@ -2999,7 +2866,7 @@ leads:
   source: https://www.nea.com/portfolio/repros-therapeutics
   stub_created: false
 - name: Retrieve
-  url: ''
+  url: https://www.retrieve.com
   suggested_slug: retrieve
   sector: ''
   source_vc: nea
@@ -3069,18 +2936,11 @@ leads:
   source: https://www.nea.com/portfolio/rocket-chat
   stub_created: false
 - name: Rotation Medical
-  url: ''
+  url: http://rotationmedical.com/
   suggested_slug: rotation-medical
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/rotation-medical
-  stub_created: false
-- name: SafeBase
-  url: ''
-  suggested_slug: safebase
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/safebase
   stub_created: false
 - name: SafeRide Health
   url: ''
@@ -3090,18 +2950,11 @@ leads:
   source: https://www.nea.com/portfolio/saferide-health
   stub_created: false
 - name: Sagimet Biosciences
-  url: ''
+  url: https://www.sagimet.com/
   suggested_slug: sagimet-biosciences
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/sagimet-biosciences
-  stub_created: false
-- name: Salesforce.com
-  url: ''
-  suggested_slug: salesforcecom
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/salesforce-com
   stub_created: false
 - name: Salix
   url: ''
@@ -3111,7 +2964,7 @@ leads:
   source: https://www.nea.com/portfolio/salix
   stub_created: false
 - name: Sasken Communications
-  url: ''
+  url: https://www.sasken.com/
   suggested_slug: sasken-communications
   sector: ''
   source_vc: nea
@@ -3132,7 +2985,7 @@ leads:
   source: https://www.nea.com/portfolio/say-media
   stub_created: false
 - name: SBC
-  url: ''
+  url: https://stablecoin.xyz/
   suggested_slug: sbc
   sector: ''
   source_vc: nea
@@ -3145,22 +2998,15 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/sci-solutions
   stub_created: false
-- name: Scout RFP
-  url: ''
-  suggested_slug: scout-rfp
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/scout-rfp
-  stub_created: false
 - name: Scratch Music Group
-  url: ''
+  url: https://www.scratchmusicgroup.com
   suggested_slug: scratch-music-group
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/scratch-music-group
   stub_created: false
 - name: Seattle Genetics
-  url: ''
+  url: https://www.seagen.com
   suggested_slug: seattle-genetics
   sector: ''
   source_vc: nea
@@ -3174,14 +3020,14 @@ leads:
   source: https://www.nea.com/portfolio/second-front
   stub_created: false
 - name: Semiconductor Manufacturing International Corporation (SMIC)
-  url: ''
+  url: https://www.smics.com/
   suggested_slug: semiconductor-manufacturing-international-corporation-smic
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/semiconductor-manufacturing-international-corporation-smic
   stub_created: false
 - name: Sengled
-  url: ''
+  url: https://us.sengled.com
   suggested_slug: sengled
   sector: ''
   source_vc: nea
@@ -3216,7 +3062,7 @@ leads:
   source: https://www.nea.com/portfolio/sepracor
   stub_created: false
 - name: Serious Energy
-  url: ''
+  url: http://www.seriousenergy.com
   suggested_slug: serious-energy
   sector: ''
   source_vc: nea
@@ -3230,7 +3076,7 @@ leads:
   source: https://www.nea.com/portfolio/setpoint-medical
   stub_created: false
 - name: Shape Therapeutics
-  url: ''
+  url: https://shapetx.com/
   suggested_slug: shape-therapeutics
   sector: ''
   source_vc: nea
@@ -3272,7 +3118,7 @@ leads:
   source: https://www.nea.com/portfolio/simple-habit
   stub_created: false
 - name: Simple Psychology
-  url: ''
+  url: https://www.jiandanxinli.com
   suggested_slug: simple-psychology
   sector: ''
   source_vc: nea
@@ -3314,7 +3160,7 @@ leads:
   source: https://www.nea.com/portfolio/sitime
   stub_created: false
 - name: SmartDrive Systems
-  url: ''
+  url: https://www.smartdrive.net
   suggested_slug: smartdrive-systems
   sector: ''
   source_vc: nea
@@ -3377,7 +3223,7 @@ leads:
   source: https://www.nea.com/portfolio/soraa
   stub_created: false
 - name: Sorriso Pharmaceuticals
-  url: ''
+  url: https://www.sorrisopharma.com/
   suggested_slug: sorriso-pharmaceuticals
   sector: ''
   source_vc: nea
@@ -3398,7 +3244,7 @@ leads:
   source: https://www.nea.com/portfolio/spine-wave
   stub_created: false
 - name: Spiras Health
-  url: ''
+  url: https://spirashealth.com/
   suggested_slug: spiras-health
   sector: ''
   source_vc: nea
@@ -3412,7 +3258,7 @@ leads:
   source: https://www.nea.com/portfolio/spiration
   stub_created: false
 - name: SpliceBio
-  url: ''
+  url: https://splice.bio
   suggested_slug: splicebio
   sector: ''
   source_vc: nea
@@ -3424,13 +3270,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/spreadtrum-communications
-  stub_created: false
-- name: Spring Mobile Solutions
-  url: ''
-  suggested_slug: spring-mobile-solutions
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/spring-mobile-solutions
   stub_created: false
 - name: SpyGlass Pharma
   url: ''
@@ -3454,18 +3293,11 @@ leads:
   source: https://www.nea.com/portfolio/stormpath
   stub_created: false
 - name: Strongbridge Biopharma
-  url: ''
+  url: https://www.strongbridgebio.com
   suggested_slug: strongbridge-biopharma
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/strongbridge-biopharma
-  stub_created: false
-- name: Sun Edison
-  url: ''
-  suggested_slug: sun-edison
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/sun-edison
   stub_created: false
 - name: SunDeck
   url: ''
@@ -3475,7 +3307,7 @@ leads:
   source: https://www.nea.com/portfolio/sundeck
   stub_created: false
 - name: Viracta Therapeutics (formerly Sunesis)
-  url: ''
+  url: https://www.viracta.com
   suggested_slug: viracta-therapeutics-formerly-sunesis
   sector: ''
   source_vc: nea
@@ -3510,7 +3342,7 @@ leads:
   source: https://www.nea.com/portfolio/surf-air
   stub_created: false
 - name: Surface Oncology
-  url: ''
+  url: https://www.surfaceoncology.com
   suggested_slug: surface-oncology
   sector: ''
   source_vc: nea
@@ -3545,18 +3377,11 @@ leads:
   source: https://www.nea.com/portfolio/switchon-networks
   stub_created: false
 - name: Synlogic
-  url: ''
+  url: https://www.synlogictx.com
   suggested_slug: synlogic
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/synlogic
-  stub_created: false
-- name: Tableau Software
-  url: ''
-  suggested_slug: tableau-software
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/tableau-software
   stub_created: false
 - name: Tagkast
   url: ''
@@ -3580,14 +3405,14 @@ leads:
   source: https://www.nea.com/portfolio/teal
   stub_created: false
 - name: Technical Communities
-  url: ''
+  url: https://www.technicalcommunities.com
   suggested_slug: technical-communities
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/technical-communities
   stub_created: false
 - name: Tectora Therapeutics
-  url: ''
+  url: https://tectoratx.com/
   suggested_slug: tectora-therapeutics
   sector: ''
   source_vc: nea
@@ -3635,15 +3460,8 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/teracent
   stub_created: false
-- name: Tesaro
-  url: ''
-  suggested_slug: tesaro
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/tesaro
-  stub_created: false
 - name: TestMart
-  url: ''
+  url: https://www.testmart.com
   suggested_slug: testmart
   sector: ''
   source_vc: nea
@@ -3657,7 +3475,7 @@ leads:
   source: https://www.nea.com/portfolio/the-well
   stub_created: false
 - name: THE YES
-  url: ''
+  url: https://www.theyes.com
   suggested_slug: the-yes
   sector: ''
   source_vc: nea
@@ -3684,13 +3502,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/tidal-therapeutics
   stub_created: false
-- name: TigerData
-  url: ''
-  suggested_slug: tigerdata
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/tigerdata
-  stub_created: false
 - name: Tokenz
   url: ''
   suggested_slug: tokenz
@@ -3713,7 +3524,7 @@ leads:
   source: https://www.nea.com/portfolio/trackmaven
   stub_created: false
 - name: TRACON Pharmaceuticals
-  url: ''
+  url: https://traconpharma.com
   suggested_slug: tracon-pharmaceuticals
   sector: ''
   source_vc: nea
@@ -3760,13 +3571,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/trevi-therapeutics
-  stub_created: false
-- name: Tri Alpha Energy
-  url: ''
-  suggested_slug: tri-alpha-energy
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/tri-alpha-energy
   stub_created: false
 - name: Tripod
   url: ''
@@ -3825,7 +3629,7 @@ leads:
   source: https://www.nea.com/portfolio/ulink
   stub_created: false
 - name: Ulthera
-  url: ''
+  url: https://ultherapy.com/
   suggested_slug: ulthera
   sector: ''
   source_vc: nea
@@ -3844,20 +3648,6 @@ leads:
   sector: ''
   source_vc: nea
   source: https://www.nea.com/portfolio/union
-  stub_created: false
-- name: Upskill
-  url: ''
-  suggested_slug: upskill
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/upskill
-  stub_created: false
-- name: Upwork (formerly oDesk)
-  url: ''
-  suggested_slug: upwork-formerly-odesk
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/upwork-formerly-odesk
   stub_created: false
 - name: Upworthy
   url: ''
@@ -3915,13 +3705,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/vast-data
   stub_created: false
-- name: VeloCloud
-  url: ''
-  suggested_slug: velocloud
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/velocloud
-  stub_created: false
 - name: Veriflow
   url: ''
   suggested_slug: veriflow
@@ -3930,7 +3713,7 @@ leads:
   source: https://www.nea.com/portfolio/veriflow
   stub_created: false
 - name: Verona Pharma
-  url: ''
+  url: https://www.veronapharma.com
   suggested_slug: verona-pharma
   sector: ''
   source_vc: nea
@@ -3950,13 +3733,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/vesper-medical
   stub_created: false
-- name: Vimaan Robotics
-  url: ''
-  suggested_slug: vimaan-robotics
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/vimaan-robotics
-  stub_created: false
 - name: Virata
   url: ''
   suggested_slug: virata
@@ -3972,7 +3748,7 @@ leads:
   source: https://www.nea.com/portfolio/vishwa
   stub_created: false
 - name: VistaGen Therapeutics
-  url: ''
+  url: https://www.vistagen.com/
   suggested_slug: vistagen-therapeutics
   sector: ''
   source_vc: nea
@@ -4007,7 +3783,7 @@ leads:
   source: https://www.nea.com/portfolio/vtesse
   stub_created: false
 - name: Vuclip
-  url: ''
+  url: https://www.vuclip.com/
   suggested_slug: vuclip
   sector: ''
   source_vc: nea
@@ -4027,15 +3803,8 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/wayport
   stub_created: false
-- name: WebEx Communications
-  url: ''
-  suggested_slug: webex-communications
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/webex-communications
-  stub_created: false
 - name: WebMD (Healtheon)
-  url: ''
+  url: https://www.webmd.com/
   suggested_slug: webmd-healtheon
   sector: ''
   source_vc: nea
@@ -4063,7 +3832,7 @@ leads:
   source: https://www.nea.com/portfolio/wnp-communications
   stub_created: false
 - name: X4 Pharmaceuticals
-  url: ''
+  url: https://www.x4pharma.com/
   suggested_slug: x4-pharmaceuticals
   sector: ''
   source_vc: nea
@@ -4139,13 +3908,6 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/zania
   stub_created: false
-- name: Zenas BioPharma
-  url: ''
-  suggested_slug: zenas-biopharma
-  sector: ''
-  source_vc: nea
-  source: https://www.nea.com/portfolio/zenas-biopharma
-  stub_created: false
 - name: Zero
   url: ''
   suggested_slug: zero
@@ -4182,7 +3944,7 @@ leads:
   source: https://www.nea.com/portfolio/zoomdata
   stub_created: false
 - name: Zosano
-  url: ''
+  url: https://www.zosanopharma.com/
   suggested_slug: zosano
   sector: ''
   source_vc: nea

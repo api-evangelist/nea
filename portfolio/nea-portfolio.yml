@@ -2,10 +2,10 @@ generated: '2026-07-17'
 method: searched
 source: https://www.nea.com/portfolio
 summary:
-  portfolio_total: 919
-  in_network: 321
-  api_providers: 109
-  missing: 598
+  portfolio_total: 918
+  in_network: 354
+  api_providers: 123
+  missing: 564
   stubs_created: 0
 companies:
 - name: Cloudflare
@@ -373,9 +373,12 @@ companies:
 - name: 42Floors
   source: https://www.nea.com/portfolio/42floors
   x-added: '2026-10-18'
-  suggested_slug: 42floors
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://42floors.com/
+  x-url-source: web search 2026-10-18
+  slug: 42-floors
+  matched_by: domain
 - name: 51offer
   source: https://www.nea.com/portfolio/51offer
   x-added: '2026-10-18'
@@ -441,6 +444,8 @@ companies:
   suggested_slug: actions-semiconductor-co-ltd
   in_network: false
   is_api_provider: false
+  url: https://www.actions-semi.com/
+  x-url-source: web search 2026-10-18
 - name: Adaptimmune
   source: https://www.nea.com/portfolio/adaptimmune
   x-added: '2026-10-18'
@@ -591,12 +596,16 @@ companies:
   suggested_slug: alimera-sciences
   in_network: false
   is_api_provider: false
+  url: http://www.alimerasciences.com
+  x-url-source: web search 2026-10-18
 - name: Allakos
   source: https://www.nea.com/portfolio/allakos
   x-added: '2026-10-18'
   suggested_slug: allakos
   in_network: false
   is_api_provider: false
+  url: https://www.allakos.com
+  x-url-source: web search 2026-10-18
 - name: Allay Therapeutics
   source: https://www.nea.com/portfolio/allay-therapeutics
   x-added: '2026-10-18'
@@ -625,6 +634,8 @@ companies:
   suggested_slug: american-pathology-partners
   in_network: false
   is_api_provider: false
+  url: https://www.ap2.com/
+  x-url-source: web search 2026-10-18
 - name: Amerigroup Corporation
   source: https://www.nea.com/portfolio/amerigroup-corporation
   x-added: '2026-10-18'
@@ -790,9 +801,12 @@ companies:
 - name: Arris
   source: https://www.nea.com/portfolio/arris
   x-added: '2026-10-18'
-  suggested_slug: arris
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://arriscomposites.com
+  x-url-source: web search 2026-10-18
+  slug: arris-composites
+  matched_by: domain
 - name: Ascend Communications
   source: https://www.nea.com/portfolio/ascend-communications
   x-added: '2026-10-18'
@@ -920,6 +934,8 @@ companies:
   suggested_slug: baihe-holding-corporation
   in_network: false
   is_api_provider: false
+  url: https://i.baihe.com/
+  x-url-source: web search 2026-10-18
 - name: Basalt
   source: https://www.nea.com/portfolio/basalt
   x-added: '2026-10-18'
@@ -941,6 +957,8 @@ companies:
   suggested_slug: bcd-semiconductor
   in_network: false
   is_api_provider: false
+  url: https://www.bcdsemi.com
+  x-url-source: web search 2026-10-18
 - name: BeachMint
   source: https://www.nea.com/portfolio/beachmint
   x-added: '2026-10-18'
@@ -953,6 +971,8 @@ companies:
   suggested_slug: bedrocket-media
   in_network: false
   is_api_provider: false
+  url: https://sportsrocket.com/
+  x-url-source: web search 2026-10-18
 - name: beehiiv
   source: https://www.nea.com/portfolio/beehiiv
   x-added: '2026-10-18'
@@ -968,6 +988,8 @@ companies:
   suggested_slug: belly
   in_network: false
   is_api_provider: false
+  url: https://www.bellycard.com
+  x-url-source: web search 2026-10-18
 - name: Belong Health
   source: https://www.nea.com/portfolio/belong-health
   x-added: '2026-10-18'
@@ -1068,6 +1090,8 @@ companies:
   suggested_slug: blockcypher
   in_network: false
   is_api_provider: false
+  url: https://www.blockcypher.com
+  x-url-source: web search 2026-10-18
 - name: Bloom Energy
   source: https://www.nea.com/portfolio/bloom-energy
   x-added: '2026-10-18'
@@ -1092,6 +1116,8 @@ companies:
   suggested_slug: blue-cheetah
   in_network: false
   is_api_provider: false
+  url: https://www.bcanalog.com/
+  x-url-source: web search 2026-10-18
 - name: Blue Jeans Network
   source: https://www.nea.com/portfolio/blue-jeans-network
   x-added: '2026-10-18'
@@ -1137,6 +1163,8 @@ companies:
   suggested_slug: boingo-wireless
   in_network: false
   is_api_provider: false
+  url: https://www.boingo.com/
+  x-url-source: web search 2026-10-18
 - name: Boku
   source: https://www.nea.com/portfolio/boku
   x-added: '2026-10-18'
@@ -1256,9 +1284,12 @@ companies:
 - name: Bytedance (Toutiao)
   source: https://www.nea.com/portfolio/bytedance-toutiao
   x-added: '2026-10-18'
-  suggested_slug: bytedance-toutiao
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.bytedance.com
+  x-url-source: web search 2026-10-18
+  slug: bytedance
+  matched_by: domain
 - name: Cadence Pharmaceuticals
   source: https://www.nea.com/portfolio/cadence-pharmaceuticals
   x-added: '2026-10-18'
@@ -1294,6 +1325,8 @@ companies:
   suggested_slug: cardionomic
   in_network: false
   is_api_provider: false
+  url: https://www.cardionomicinc.com/
+  x-url-source: web search 2026-10-18
 - name: CardioThoracic Systems
   source: https://www.nea.com/portfolio/cardiothoracic-systems
   x-added: '2026-10-18'
@@ -1334,6 +1367,8 @@ companies:
   suggested_slug: careerbuilder
   in_network: false
   is_api_provider: false
+  url: https://www.careerbuilder.com/
+  x-url-source: web search 2026-10-18
 - name: CareZone
   source: https://www.nea.com/portfolio/carezone
   x-added: '2026-10-18'
@@ -1393,18 +1428,25 @@ companies:
   suggested_slug: catalyst-biosciences
   in_network: false
   is_api_provider: false
+  url: https://www.catalystbiosciences.com/
+  x-url-source: web search 2026-10-18
 - name: Catalytic
   source: https://www.nea.com/portfolio/catalytic
   x-added: '2026-10-18'
-  suggested_slug: catalytic
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.pagerduty.com/catalytic/
+  x-url-source: web search 2026-10-18
+  slug: pagerduty
+  matched_by: domain
 - name: Cathay Industrial Biotech, Ltd.
   source: https://www.nea.com/portfolio/cathay-industrial-biotech
   x-added: '2026-10-18'
   suggested_slug: cathay-industrial-biotech-ltd
   in_network: false
   is_api_provider: false
+  url: http://m.cathaybiotech.com/index.aspx
+  x-url-source: web search 2026-10-18
 - name: Causes
   source: https://www.nea.com/portfolio/causes
   x-added: '2026-10-18'
@@ -1425,6 +1467,8 @@ companies:
   suggested_slug: centralize
   in_network: false
   is_api_provider: false
+  url: https://www.usecentralize.com/
+  x-url-source: web search 2026-10-18
 - name: Centrexion Therapeutics
   source: https://www.nea.com/portfolio/centrexion-therapeutics
   x-added: '2026-10-18'
@@ -1448,6 +1492,8 @@ companies:
   suggested_slug: cerecor-inc
   in_network: false
   is_api_provider: false
+  url: https://www.avalotx.com
+  x-url-source: web search 2026-10-18
 - name: Champions Oncology
   source: https://www.nea.com/portfolio/champions-oncology
   x-added: '2026-10-18'
@@ -1463,12 +1509,16 @@ companies:
   suggested_slug: changeio
   in_network: false
   is_api_provider: false
+  url: https://getchange.io/
+  x-url-source: web search 2026-10-18
 - name: ChannelAdvisor
   source: https://www.nea.com/portfolio/channeladvisor
   x-added: '2026-10-18'
   suggested_slug: channeladvisor
   in_network: false
   is_api_provider: false
+  url: https://www.channeladvisor.com
+  x-url-source: web search 2026-10-18
 - name: Chaos
   source: https://www.nea.com/portfolio/chaos
   x-added: '2026-10-18'
@@ -1528,12 +1578,16 @@ companies:
   suggested_slug: cirrus-logic
   in_network: false
   is_api_provider: false
+  url: https://www.cirrus.com/
+  x-url-source: web search 2026-10-18
 - name: Cista
   source: https://www.nea.com/portfolio/cista
   x-added: '2026-10-18'
   suggested_slug: cista
   in_network: false
   is_api_provider: false
+  url: http://www.cistadesign.com
+  x-url-source: web search 2026-10-18
 - name: Clarifai
   source: https://www.nea.com/portfolio/clarifai
   x-added: '2026-10-18'
@@ -1557,9 +1611,12 @@ companies:
 - name: ClearMetal
   source: https://www.nea.com/portfolio/clearmetal
   x-added: '2026-10-18'
-  suggested_slug: clearmetal
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.project44.com/ocean-visibility
+  x-url-source: web search 2026-10-18
+  slug: project44
+  matched_by: domain
 - name: ClearMotion
   source: https://www.nea.com/portfolio/clearmotion
   x-added: '2026-10-18'
@@ -1575,6 +1632,8 @@ companies:
   suggested_slug: cleave-biosciences
   in_network: false
   is_api_provider: false
+  url: https://cleavetherapeutics.com
+  x-url-source: web search 2026-10-18
 - name: Clementia
   source: https://www.nea.com/portfolio/clementia
   x-added: '2026-10-18'
@@ -1616,6 +1675,8 @@ companies:
   suggested_slug: clovis-oncology
   in_network: false
   is_api_provider: false
+  url: https://www.clovisoncology.com/
+  x-url-source: web search 2026-10-18
 - name: Coda
   source: https://www.nea.com/portfolio/coda
   x-added: '2026-10-18'
@@ -1637,9 +1698,12 @@ companies:
 - name: Code42
   source: https://www.nea.com/portfolio/code42
   x-added: '2026-10-18'
-  suggested_slug: code42
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.code42.com
+  x-url-source: web search 2026-10-18
+  slug: code-42
+  matched_by: domain
 - name: CoEdition
   source: https://www.nea.com/portfolio/coedition
   x-added: '2026-10-18'
@@ -1787,6 +1851,8 @@ companies:
   suggested_slug: cti-biopharma
   in_network: false
   is_api_provider: false
+  url: https://www.ctibiopharma.com
+  x-url-source: web search 2026-10-18
 - name: Cuponation
   source: https://www.nea.com/portfolio/cuponation
   x-added: '2026-10-18'
@@ -1803,9 +1869,12 @@ companies:
 - name: Curisium
   source: https://www.nea.com/portfolio/curisium
   x-added: '2026-10-18'
-  suggested_slug: curisium
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://healthverity.com/smart-contracts-manager/
+  x-url-source: web search 2026-10-18
+  slug: healthverity
+  matched_by: domain
 - name: Curzion Pharmaceuticals
   source: https://www.nea.com/portfolio/curzion-pharmaceuticals
   x-added: '2026-10-18'
@@ -1963,9 +2032,12 @@ companies:
 - name: Desire2Learn
   source: https://www.nea.com/portfolio/desire2learn
   x-added: '2026-10-18'
-  suggested_slug: desire2learn
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.d2l.com
+  x-url-source: web search 2026-10-18
+  slug: brightspace
+  matched_by: domain
 - name: Desktop Metal
   source: https://www.nea.com/portfolio/desktop-metal
   x-added: '2026-10-18'
@@ -1990,9 +2062,12 @@ companies:
 - name: Didi Chuxing
   source: https://www.nea.com/portfolio/didi-chuxing
   x-added: '2026-10-18'
-  suggested_slug: didi-chuxing
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.didiglobal.com
+  x-url-source: web search 2026-10-18
+  slug: didi-autonomous
+  matched_by: domain
 - name: Divvy
   source: https://www.nea.com/portfolio/divvy
   x-added: '2026-10-18'
@@ -2022,12 +2097,16 @@ companies:
   suggested_slug: dots-technology-corp
   in_network: false
   is_api_provider: false
+  url: http://www.dotscorp.com
+  x-url-source: web search 2026-10-18
 - name: Drobo
   source: https://www.nea.com/portfolio/drobo
   x-added: '2026-10-18'
   suggested_slug: drobo
   in_network: false
   is_api_provider: false
+  url: https://www.drobo.com
+  x-url-source: web search 2026-10-18
 - name: Drop
   source: https://www.nea.com/portfolio/drop
   x-added: '2026-10-18'
@@ -2096,9 +2175,12 @@ companies:
 - name: Echo Global Logistics
   source: https://www.nea.com/portfolio/echo-global-logistics
   x-added: '2026-10-18'
-  suggested_slug: echo-global-logistics
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.echo.com
+  x-url-source: web search 2026-10-18
+  slug: echo-global
+  matched_by: domain
 - name: Echodyne
   source: https://www.nea.com/portfolio/echodyne
   x-added: '2026-10-18'
@@ -2204,6 +2286,8 @@ companies:
   suggested_slug: engine-yard
   in_network: false
   is_api_provider: false
+  url: https://www.engineyard.com
+  x-url-source: web search 2026-10-18
 - name: Enigma
   source: https://www.nea.com/portfolio/enigma
   x-added: '2026-10-18'
@@ -2430,6 +2514,8 @@ companies:
   suggested_slug: financial-engines
   in_network: false
   is_api_provider: false
+  url: https://edelmanfinancialengines.com
+  x-url-source: web search 2026-10-18
 - name: Financial Software & Systems
   source: https://www.nea.com/portfolio/financial-software-systems
   x-added: '2026-10-18'
@@ -2456,8 +2542,8 @@ companies:
   is_api_provider: false
   url: https://firebase.google.com
   x-url-source: network-repo (title-verified 2026-10-18)
-  x-name-collision: firebase
   suggested_slug: google-com
+  x-name-collision: firebase
 - name: Firestorm
   source: https://www.nea.com/portfolio/firestorm
   x-added: '2026-10-18'
@@ -2511,6 +2597,8 @@ companies:
   suggested_slug: folloze
   in_network: false
   is_api_provider: false
+  url: https://www.folloze.com
+  x-url-source: web search 2026-10-18
 - name: Force10
   source: https://www.nea.com/portfolio/force10
   x-added: '2026-10-18'
@@ -2643,6 +2731,8 @@ companies:
   suggested_slug: galera-therapeutics
   in_network: false
   is_api_provider: false
+  url: https://www.galeratx.com
+  x-url-source: web search 2026-10-18
 - name: GeistM
   source: https://www.nea.com/portfolio/geistm
   x-added: '2026-10-18'
@@ -2659,9 +2749,12 @@ companies:
 - name: Gen.G
   source: https://www.nea.com/portfolio/gen-g
   x-added: '2026-10-18'
-  suggested_slug: geng
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://geng.gg
+  x-url-source: web search 2026-10-18
+  slug: gen-g
+  matched_by: domain
 - name: Genetic Therapy Inc.
   source: https://www.nea.com/portfolio/genetic-therapy-inc
   x-added: '2026-10-18'
@@ -2753,6 +2846,8 @@ companies:
   suggested_slug: goji-solutions
   in_network: false
   is_api_provider: false
+  url: http://www.gojifoodsolutions.com
+  x-url-source: web search 2026-10-18
 - name: Golden Analytics
   source: https://www.nea.com/portfolio/golden-analytics
   x-added: '2026-10-18'
@@ -2766,6 +2861,8 @@ companies:
   suggested_slug: golden-state-medical-supply
   in_network: false
   is_api_provider: false
+  url: https://gsms.us
+  x-url-source: web search 2026-10-18
 - name: Good Technology
   source: https://www.nea.com/portfolio/good-technology
   x-added: '2026-10-18'
@@ -2862,6 +2959,8 @@ companies:
   suggested_slug: grey-rhino
   in_network: false
   is_api_provider: false
+  url: https://greyrhino.ai/
+  x-url-source: web search 2026-10-18
 - name: greytHR
   source: https://www.nea.com/portfolio/greythr
   x-added: '2026-10-18'
@@ -2986,9 +3085,12 @@ companies:
 - name: Hearsay Social
   source: https://www.nea.com/portfolio/hearsay-social
   x-added: '2026-10-18'
-  suggested_slug: hearsay-social
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.yext.com/about/hearsay
+  x-url-source: web search 2026-10-18
+  slug: yext
+  matched_by: domain
 - name: Heavy.ai
   source: https://www.nea.com/portfolio/heavy-ai
   x-added: '2026-10-18'
@@ -3015,6 +3117,8 @@ companies:
   suggested_slug: hired
   in_network: false
   is_api_provider: false
+  url: https://hired.com
+  x-url-source: web search 2026-10-18
 - name: Hireguide
   source: https://www.nea.com/portfolio/hireguide
   x-added: '2026-10-18'
@@ -3037,6 +3141,8 @@ companies:
   suggested_slug: hos
   in_network: false
   is_api_provider: false
+  url: https://www.hosinc.co/
+  x-url-source: web search 2026-10-18
 - name: House Rx
   source: https://www.nea.com/portfolio/house-rx
   x-added: '2026-10-18'
@@ -3074,6 +3180,8 @@ companies:
   suggested_slug: hygeia-medical-services-group
   in_network: false
   is_api_provider: false
+  url: http://www.hygeiamedical.cn
+  x-url-source: web search 2026-10-18
 - name: Hyperfair
   source: https://www.nea.com/portfolio/hyperfair
   x-added: '2026-10-18'
@@ -3160,6 +3268,8 @@ companies:
   suggested_slug: incarey
   in_network: false
   is_api_provider: false
+  url: http://www.incarey.cn/
+  x-url-source: web search 2026-10-18
 - name: Indio
   source: https://www.nea.com/portfolio/indio
   x-added: '2026-10-18'
@@ -3226,6 +3336,8 @@ companies:
   suggested_slug: inozyme-pharma
   in_network: false
   is_api_provider: false
+  url: https://www.inozyme.com/
+  x-url-source: web search 2026-10-18
 - name: InSoft
   source: https://www.nea.com/portfolio/insoft
   x-added: '2026-10-18'
@@ -3260,10 +3372,10 @@ companies:
   in_network: false
   is_api_provider: false
   x-url-candidate: https://intellisys.io
-- name: NEA Portfolio
+- name: Interleukin Genetics
   source: https://www.nea.com/portfolio/interleukin-genetics
   x-added: '2026-10-18'
-  suggested_slug: nea-portfolio
+  suggested_slug: interleukin-genetics
   in_network: false
   is_api_provider: false
 - name: Intrinsic
@@ -3287,12 +3399,16 @@ companies:
   suggested_slug: inventiva-pharma
   in_network: false
   is_api_provider: false
+  url: https://inventivapharma.com
+  x-url-source: web search 2026-10-18
 - name: Inversago
   source: https://www.nea.com/portfolio/inversago
   x-added: '2026-10-18'
   suggested_slug: inversago
   in_network: false
   is_api_provider: false
+  url: https://inversago.com
+  x-url-source: web search 2026-10-18
 - name: Iobeam
   source: https://www.nea.com/portfolio/iobeam
   x-added: '2026-10-18'
@@ -3327,6 +3443,8 @@ companies:
   suggested_slug: iridex-corporation
   in_network: false
   is_api_provider: false
+  url: https://iridex.com
+  x-url-source: web search 2026-10-18
 - name: Iron Port
   source: https://www.nea.com/portfolio/iron-port
   x-added: '2026-10-18'
@@ -3355,9 +3473,12 @@ companies:
 - name: Juniper Networks
   source: https://www.nea.com/portfolio/juniper-networks
   x-added: '2026-10-18'
-  suggested_slug: juniper-networks
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.juniper.net
+  x-url-source: web search 2026-10-18
+  slug: juniper
+  matched_by: domain
 - name: Juvo
   source: https://www.nea.com/portfolio/juvo
   x-added: '2026-10-18'
@@ -3509,6 +3630,8 @@ companies:
   suggested_slug: lexicon-pharmaceuticals
   in_network: false
   is_api_provider: false
+  url: https://www.lexpharma.com
+  x-url-source: web search 2026-10-18
 - name: LianLian
   source: https://www.nea.com/portfolio/lianlian
   x-added: '2026-10-18'
@@ -3544,12 +3667,17 @@ companies:
   suggested_slug: linekong-international-co-ltd
   in_network: false
   is_api_provider: false
+  url: https://new.linekong.com
+  x-url-source: web search 2026-10-18
 - name: Liquidia Corporation
   source: https://www.nea.com/portfolio/liquidia-corporation
   x-added: '2026-10-18'
-  suggested_slug: liquidia-corporation
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.liquidia.com
+  x-url-source: web search 2026-10-18
+  slug: liquidia
+  matched_by: domain
 - name: Lithium Technologies
   source: https://www.nea.com/portfolio/lithium-technologies
   x-added: '2026-10-18'
@@ -3640,12 +3768,16 @@ companies:
   suggested_slug: lumos-pharma
   in_network: false
   is_api_provider: false
+  url: https://lumos-pharma.com
+  x-url-source: web search 2026-10-18
 - name: Lungpacer Medical
   source: https://www.nea.com/portfolio/lungpacer-medical
   x-added: '2026-10-18'
   suggested_slug: lungpacer-medical
   in_network: false
   is_api_provider: false
+  url: https://www.lungpacer.com
+  x-url-source: web search 2026-10-18
 - name: Luxtera
   source: https://www.nea.com/portfolio/luxtera
   x-added: '2026-10-18'
@@ -3746,24 +3878,33 @@ companies:
   suggested_slug: forallsecure
   in_network: false
   is_api_provider: false
+  url: https://www.mayhem.security
+  x-url-source: web search 2026-10-18
 - name: MediaOcean
   source: https://www.nea.com/portfolio/mediaocean
   x-added: '2026-10-18'
-  suggested_slug: mediaocean
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.mediaocean.com
+  x-url-source: web search 2026-10-18
+  slug: 4c
+  matched_by: domain
 - name: MediSys EduTech
   source: https://www.nea.com/portfolio/medisys-edutech
   x-added: '2026-10-18'
   suggested_slug: medisys-edutech
   in_network: false
   is_api_provider: false
+  url: https://app.smarteach.com/medrc/default.html
+  x-url-source: web search 2026-10-18
 - name: MEI Pharma
   source: https://www.nea.com/portfolio/mei-pharma
   x-added: '2026-10-18'
   suggested_slug: mei-pharma
   in_network: false
   is_api_provider: false
+  url: https://www.meipharma.com
+  x-url-source: web search 2026-10-18
 - name: Mejuri
   source: https://www.nea.com/portfolio/mejuri
   x-added: '2026-10-18'
@@ -3779,6 +3920,8 @@ companies:
   suggested_slug: mersana
   in_network: false
   is_api_provider: false
+  url: https://www.mersana.com
+  x-url-source: web search 2026-10-18
 - name: Metabase
   source: https://www.nea.com/portfolio/metabase
   x-added: '2026-10-18'
@@ -3839,6 +3982,8 @@ companies:
   suggested_slug: mimosa-networks
   in_network: false
   is_api_provider: false
+  url: https://mimosa.co/
+  x-url-source: web search 2026-10-18
 - name: MindTickle
   source: https://www.nea.com/portfolio/mindtickle
   x-added: '2026-10-18'
@@ -3912,6 +4057,8 @@ companies:
   suggested_slug: modyfi
   in_network: false
   is_api_provider: false
+  url: http://modyfi.com/
+  x-url-source: web search 2026-10-18
 - name: Mojo Vision
   source: https://www.nea.com/portfolio/mojo-vision
   x-added: '2026-10-18'
@@ -3927,6 +4074,8 @@ companies:
   suggested_slug: moneytap
   in_network: false
   is_api_provider: false
+  url: https://www.moneytap.com
+  x-url-source: web search 2026-10-18
 - name: Monte Rosa Therapeutics
   source: https://www.nea.com/portfolio/monte-rosa-therapeutics
   x-added: '2026-10-18'
@@ -3960,6 +4109,8 @@ companies:
   suggested_slug: motion-computing
   in_network: false
   is_api_provider: false
+  url: https://motioncomputing.com
+  x-url-source: web search 2026-10-18
 - name: Motricity
   source: https://www.nea.com/portfolio/motricity
   x-added: '2026-10-18'
@@ -3976,9 +4127,12 @@ companies:
 - name: Movius Interactive Corporation
   source: https://www.nea.com/portfolio/movius-interactive-corporation
   x-added: '2026-10-18'
-  suggested_slug: movius-interactive-corporation
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.moviuscorp.com/
+  x-url-source: web search 2026-10-18
+  slug: movius
+  matched_by: domain
 - name: Moximed
   source: https://www.nea.com/portfolio/moximed
   x-added: '2026-10-18'
@@ -4038,6 +4192,8 @@ companies:
   suggested_slug: nefeli-networks
   in_network: false
   is_api_provider: false
+  url: https://nefeli.io
+  x-url-source: web search 2026-10-18
 - name: Nektar Therapeutics
   source: https://www.nea.com/portfolio/nektar-therapeutics
   x-added: '2026-10-18'
@@ -4104,6 +4260,8 @@ companies:
   suggested_slug: neuralieve
   in_network: false
   is_api_provider: false
+  url: https://www.eneura.com
+  x-url-source: web search 2026-10-18
 - name: NeuroPace
   source: https://www.nea.com/portfolio/neuropace
   x-added: '2026-10-18'
@@ -4130,6 +4288,8 @@ companies:
   suggested_slug: new-wave-foods
   in_network: false
   is_api_provider: false
+  url: https://www.newwavefoods.com/
+  x-url-source: web search 2026-10-18
 - name: NewGlobe
   source: https://www.nea.com/portfolio/newglobe
   x-added: '2026-10-18'
@@ -4252,6 +4412,8 @@ companies:
   suggested_slug: nova-fertility
   in_network: false
   is_api_provider: false
+  url: https://www.novaivf.com
+  x-url-source: web search 2026-10-18
 - name: Novacept
   source: https://www.nea.com/portfolio/novacept
   x-added: '2026-10-18'
@@ -4261,9 +4423,12 @@ companies:
 - name: Novast Holdings Limited
   source: https://www.nea.com/portfolio/novast-holdings-limited
   x-added: '2026-10-18'
-  suggested_slug: novast-holdings-limited
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: http://www.novast.cn
+  x-url-source: web search 2026-10-18
+  slug: novast
+  matched_by: domain
 - name: Novatium
   source: https://www.nea.com/portfolio/novatium
   x-added: '2026-10-18'
@@ -4315,6 +4480,8 @@ companies:
   suggested_slug: obseva
   in_network: false
   is_api_provider: false
+  url: https://www.obseva.com
+  x-url-source: web search 2026-10-18
 - name: Oculeve
   source: https://www.nea.com/portfolio/oculeve
   x-added: '2026-10-18'
@@ -4436,18 +4603,24 @@ companies:
   suggested_slug: oyster-point
   in_network: false
   is_api_provider: false
+  url: https://oysterpointrx.com/
+  x-url-source: web search 2026-10-18
 - name: P-1
   source: https://www.nea.com/portfolio/p-1
   x-added: '2026-10-18'
   suggested_slug: p-1
   in_network: false
   is_api_provider: false
+  url: https://p-1.ai/
+  x-url-source: web search 2026-10-18
 - name: Pacific Light & Hologram
   source: https://www.nea.com/portfolio/pacific-light-hologram
   x-added: '2026-10-18'
   suggested_slug: pacific-light-and-hologram
   in_network: false
   is_api_provider: false
+  url: https://www.pacificlightandhologram.com
+  x-url-source: web search 2026-10-18
 - name: Packeteer
   source: https://www.nea.com/portfolio/packeteer
   x-added: '2026-10-18'
@@ -4478,6 +4651,8 @@ companies:
   suggested_slug: panacea-medical-technologies
   in_network: false
   is_api_provider: false
+  url: http://www.panaceamedical.in
+  x-url-source: web search 2026-10-18
 - name: Parc Place
   source: https://www.nea.com/portfolio/parc-place
   x-added: '2026-10-18'
@@ -4533,6 +4708,8 @@ companies:
   suggested_slug: personal-genome-diagnostics
   in_network: false
   is_api_provider: false
+  url: http://www.personalgenome.com/
+  x-url-source: web search 2026-10-18
 - name: Pharmion
   source: https://www.nea.com/portfolio/pharmion
   x-added: '2026-10-18'
@@ -4542,9 +4719,12 @@ companies:
 - name: Phase Forward
   source: https://www.nea.com/portfolio/phase-forward
   x-added: '2026-10-18'
-  suggested_slug: phase-forward
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.oracle.com/us/corporate/Acquisitions/phaseforward/index.html
+  x-url-source: web search 2026-10-18
+  slug: oracle
+  matched_by: domain
 - name: PhaseBio Pharmaceuticals
   source: https://www.nea.com/portfolio/phasebio-pharmaceuticals
   x-added: '2026-10-18'
@@ -4603,6 +4783,8 @@ companies:
   suggested_slug: pionyr-immunotherapeutics
   in_network: false
   is_api_provider: false
+  url: https://www.pionyrtx.com
+  x-url-source: web search 2026-10-18
 - name: Pixiebrix
   source: https://www.nea.com/portfolio/pixiebrix
   x-added: '2026-10-18'
@@ -4685,6 +4867,8 @@ companies:
   suggested_slug: popai
   in_network: false
   is_api_provider: false
+  url: https://www.popai.health/
+  x-url-source: web search 2026-10-18
 - name: PortAuthority
   source: https://www.nea.com/portfolio/portauthority
   x-added: '2026-10-18'
@@ -4716,6 +4900,8 @@ companies:
   suggested_slug: prime-financial-technologies
   in_network: false
   is_api_provider: false
+  url: https://www.primeft.com/
+  x-url-source: web search 2026-10-18
 - name: Procket
   source: https://www.nea.com/portfolio/procket
   x-added: '2026-10-18'
@@ -4759,6 +4945,8 @@ companies:
   suggested_slug: psyadon-pharmaceuticals
   in_network: false
   is_api_provider: false
+  url: http://www.psyadonrx.com
+  x-url-source: web search 2026-10-18
 - name: Pulse
   source: https://www.nea.com/portfolio/pulse
   x-added: '2026-10-18'
@@ -4785,6 +4973,8 @@ companies:
   suggested_slug: qpex-biopharma
   in_network: false
   is_api_provider: false
+  url: https://www.qpexbio.com
+  x-url-source: web search 2026-10-18
 - name: Qualified Health
   source: https://www.nea.com/portfolio/qualified-health
   x-added: '2026-10-18'
@@ -4846,9 +5036,12 @@ companies:
 - name: Red Ridge Bio
   source: https://www.nea.com/portfolio/red-ridge-bio
   x-added: '2026-10-18'
-  suggested_slug: red-ridge-bio
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://redridgebio.com/
+  x-url-source: web search 2026-10-18
+  slug: red-ridgebio
+  matched_by: domain
 - name: Redbaby
   source: https://www.nea.com/portfolio/redbaby
   x-added: '2026-10-18'
@@ -4915,6 +5108,8 @@ companies:
   suggested_slug: retrieve
   in_network: false
   is_api_provider: false
+  url: https://www.retrieve.com
+  x-url-source: web search 2026-10-18
 - name: Revelio
   source: https://www.nea.com/portfolio/revelio
   x-added: '2026-10-18'
@@ -4991,12 +5186,17 @@ companies:
   suggested_slug: rotation-medical
   in_network: false
   is_api_provider: false
+  url: http://rotationmedical.com/
+  x-url-source: web search 2026-10-18
 - name: SafeBase
   source: https://www.nea.com/portfolio/safebase
   x-added: '2026-10-18'
-  suggested_slug: safebase
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://safebase.io/
+  x-url-source: web search 2026-10-18
+  slug: drata
+  matched_by: domain
 - name: SafeRide Health
   source: https://www.nea.com/portfolio/saferide-health
   x-added: '2026-10-18'
@@ -5010,6 +5210,8 @@ companies:
   suggested_slug: sagimet-biosciences
   in_network: false
   is_api_provider: false
+  url: https://www.sagimet.com/
+  x-url-source: web search 2026-10-18
 - name: Sakana AI
   source: https://www.nea.com/portfolio/sakana-ai
   x-added: '2026-10-18'
@@ -5022,9 +5224,12 @@ companies:
 - name: Salesforce.com
   source: https://www.nea.com/portfolio/salesforce-com
   x-added: '2026-10-18'
-  suggested_slug: salesforcecom
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.salesforce.com/
+  x-url-source: web search 2026-10-18
+  slug: salesforce
+  matched_by: domain
 - name: Salix
   source: https://www.nea.com/portfolio/salix
   x-added: '2026-10-18'
@@ -5047,6 +5252,8 @@ companies:
   suggested_slug: sasken-communications
   in_network: false
   is_api_provider: false
+  url: https://www.sasken.com/
+  x-url-source: web search 2026-10-18
 - name: Savara
   source: https://www.nea.com/portfolio/savara
   x-added: '2026-10-18'
@@ -5066,6 +5273,8 @@ companies:
   suggested_slug: sbc
   in_network: false
   is_api_provider: false
+  url: https://stablecoin.xyz/
+  x-url-source: web search 2026-10-18
 - name: SCI Solutions
   source: https://www.nea.com/portfolio/sci-solutions
   x-added: '2026-10-18'
@@ -5093,21 +5302,28 @@ companies:
 - name: Scout RFP
   source: https://www.nea.com/portfolio/scout-rfp
   x-added: '2026-10-18'
-  suggested_slug: scout-rfp
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://blog.workday.com/en-us/2019/workday-acquire-scout-rfp-helping-transform-office-procurement.html
+  x-url-source: web search 2026-10-18
+  slug: workday
+  matched_by: domain
 - name: Scratch Music Group
   source: https://www.nea.com/portfolio/scratch-music-group
   x-added: '2026-10-18'
   suggested_slug: scratch-music-group
   in_network: false
   is_api_provider: false
+  url: https://www.scratchmusicgroup.com
+  x-url-source: web search 2026-10-18
 - name: Seattle Genetics
   source: https://www.nea.com/portfolio/seattle-genetics
   x-added: '2026-10-18'
   suggested_slug: seattle-genetics
   in_network: false
   is_api_provider: false
+  url: https://www.seagen.com
+  x-url-source: web search 2026-10-18
 - name: Second Front
   source: https://www.nea.com/portfolio/second-front
   x-added: '2026-10-18'
@@ -5121,12 +5337,16 @@ companies:
   suggested_slug: semiconductor-manufacturing-international-corporation-smic
   in_network: false
   is_api_provider: false
+  url: https://www.smics.com/
+  x-url-source: web search 2026-10-18
 - name: Sengled
   source: https://www.nea.com/portfolio/sengled
   x-added: '2026-10-18'
   suggested_slug: sengled
   in_network: false
   is_api_provider: false
+  url: https://us.sengled.com
+  x-url-source: web search 2026-10-18
 - name: Senseonics
   source: https://www.nea.com/portfolio/senseonics
   x-added: '2026-10-18'
@@ -5168,6 +5388,8 @@ companies:
   suggested_slug: serious-energy
   in_network: false
   is_api_provider: false
+  url: http://www.seriousenergy.com
+  x-url-source: web search 2026-10-18
 - name: SetPoint Medical
   source: https://www.nea.com/portfolio/setpoint-medical
   x-added: '2026-10-18'
@@ -5181,6 +5403,8 @@ companies:
   suggested_slug: shape-therapeutics
   in_network: false
   is_api_provider: false
+  url: https://shapetx.com/
+  x-url-source: web search 2026-10-18
 - name: Sierra Atlantic
   source: https://www.nea.com/portfolio/sierra-atlantic
   x-added: '2026-10-18'
@@ -5219,6 +5443,8 @@ companies:
   suggested_slug: simple-psychology
   in_network: false
   is_api_provider: false
+  url: https://www.jiandanxinli.com
+  x-url-source: web search 2026-10-18
 - name: SimpleRose
   source: https://www.nea.com/portfolio/simplerose
   x-added: '2026-10-18'
@@ -5295,6 +5521,8 @@ companies:
   suggested_slug: smartdrive-systems
   in_network: false
   is_api_provider: false
+  url: https://www.smartdrive.net
+  x-url-source: web search 2026-10-18
 - name: SnagFilms
   source: https://www.nea.com/portfolio/snagfilms
   x-added: '2026-10-18'
@@ -5386,6 +5614,8 @@ companies:
   suggested_slug: sorriso-pharmaceuticals
   in_network: false
   is_api_provider: false
+  url: https://www.sorrisopharma.com/
+  x-url-source: web search 2026-10-18
 - name: Sourcefire
   source: https://www.nea.com/portfolio/sourcefire
   x-added: '2026-10-18'
@@ -5430,6 +5660,8 @@ companies:
   suggested_slug: spiras-health
   in_network: false
   is_api_provider: false
+  url: https://spirashealth.com/
+  x-url-source: web search 2026-10-18
 - name: Spiration
   source: https://www.nea.com/portfolio/spiration
   x-added: '2026-10-18'
@@ -5451,6 +5683,8 @@ companies:
   suggested_slug: splicebio
   in_network: false
   is_api_provider: false
+  url: https://splice.bio
+  x-url-source: web search 2026-10-18
 - name: Spokn
   source: https://www.nea.com/portfolio/spokn
   x-added: '2026-10-18'
@@ -5469,9 +5703,12 @@ companies:
 - name: Spring Mobile Solutions
   source: https://www.nea.com/portfolio/spring-mobile-solutions
   x-added: '2026-10-18'
-  suggested_slug: spring-mobile-solutions
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.springglobal.com
+  x-url-source: web search 2026-10-18
+  slug: spring-global
+  matched_by: domain
 - name: Springpath
   source: https://www.nea.com/portfolio/springpath
   x-added: '2026-10-18'
@@ -5541,6 +5778,8 @@ companies:
   suggested_slug: strongbridge-biopharma
   in_network: false
   is_api_provider: false
+  url: https://www.strongbridgebio.com
+  x-url-source: web search 2026-10-18
 - name: Subtext
   source: https://www.nea.com/portfolio/subtext
   x-added: '2026-10-18'
@@ -5561,9 +5800,12 @@ companies:
   source: https://www.nea.com/portfolio/sun-edison
   x-added: '2026-10-18'
   x-name-from-slug: true
-  suggested_slug: sun-edison
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.sunedison.com
+  x-url-source: web search 2026-10-18
+  slug: sunedison
+  matched_by: domain
 - name: SunDeck
   source: https://www.nea.com/portfolio/sundeck
   x-added: '2026-10-18'
@@ -5576,6 +5818,8 @@ companies:
   suggested_slug: viracta-therapeutics-formerly-sunesis
   in_network: false
   is_api_provider: false
+  url: https://www.viracta.com
+  x-url-source: web search 2026-10-18
 - name: Super
   source: https://www.nea.com/portfolio/super
   x-added: '2026-10-18'
@@ -5618,6 +5862,8 @@ companies:
   suggested_slug: surface-oncology
   in_network: false
   is_api_provider: false
+  url: https://www.surfaceoncology.com
+  x-url-source: web search 2026-10-18
 - name: Surgical Health
   source: https://www.nea.com/portfolio/surgical-health
   x-added: '2026-10-18'
@@ -5677,6 +5923,8 @@ companies:
   suggested_slug: synlogic
   in_network: false
   is_api_provider: false
+  url: https://www.synlogictx.com
+  x-url-source: web search 2026-10-18
 - name: Synopsys
   source: https://www.nea.com/portfolio/synopsys
   x-added: '2026-10-18'
@@ -5698,9 +5946,12 @@ companies:
 - name: Tableau Software
   source: https://www.nea.com/portfolio/tableau-software
   x-added: '2026-10-18'
-  suggested_slug: tableau-software
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.tableau.com
+  x-url-source: web search 2026-10-18
+  slug: tableau
+  matched_by: domain
 - name: Tagkast
   source: https://www.nea.com/portfolio/tagkast
   x-added: '2026-10-18'
@@ -5746,12 +5997,16 @@ companies:
   suggested_slug: technical-communities
   in_network: false
   is_api_provider: false
+  url: https://www.technicalcommunities.com
+  x-url-source: web search 2026-10-18
 - name: Tectora Therapeutics
   source: https://www.nea.com/portfolio/tectora
   x-added: '2026-10-18'
   suggested_slug: tectora-therapeutics
   in_network: false
   is_api_provider: false
+  url: https://tectoratx.com/
+  x-url-source: web search 2026-10-18
 - name: Tele Atlas
   source: https://www.nea.com/portfolio/tele-atlas
   x-added: '2026-10-18'
@@ -5794,15 +6049,20 @@ companies:
 - name: Tesaro
   source: https://www.nea.com/portfolio/tesaro
   x-added: '2026-10-18'
-  suggested_slug: tesaro
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.gsk.com/en-gb/investors/corporate-actions/agreement-to-acquire-tesaro/
+  x-url-source: web search 2026-10-18
+  slug: gsk
+  matched_by: domain
 - name: TestMart
   source: https://www.nea.com/portfolio/testmart
   x-added: '2026-10-18'
   suggested_slug: testmart
   in_network: false
   is_api_provider: false
+  url: https://www.testmart.com
+  x-url-source: web search 2026-10-18
 - name: The Climate Corporation
   source: https://www.nea.com/portfolio/the-climate-corporation
   x-added: '2026-10-18'
@@ -5832,6 +6092,8 @@ companies:
   suggested_slug: the-yes
   in_network: false
   is_api_provider: false
+  url: https://www.theyes.com
+  x-url-source: web search 2026-10-18
 - name: Theorycraft Games
   source: https://www.nea.com/portfolio/theorycraft-games
   x-added: '2026-10-18'
@@ -5881,9 +6143,12 @@ companies:
 - name: TigerData
   source: https://www.nea.com/portfolio/tigerdata
   x-added: '2026-10-18'
-  suggested_slug: tigerdata
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.tigerdata.com
+  x-url-source: web search 2026-10-18
+  slug: timescale
+  matched_by: domain
 - name: TiVo
   source: https://www.nea.com/portfolio/tivo
   x-added: '2026-10-18'
@@ -5936,6 +6201,8 @@ companies:
   suggested_slug: tracon-pharmaceuticals
   in_network: false
   is_api_provider: false
+  url: https://traconpharma.com
+  x-url-source: web search 2026-10-18
 - name: Trading Dynamics
   source: https://www.nea.com/portfolio/trading-dynamics
   x-added: '2026-10-18'
@@ -6005,9 +6272,12 @@ companies:
 - name: Tri Alpha Energy
   source: https://www.nea.com/portfolio/tri-alpha-energy
   x-added: '2026-10-18'
-  suggested_slug: tri-alpha-energy
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://tae.com
+  x-url-source: web search 2026-10-18
+  slug: tae-technologies
+  matched_by: domain
 - name: Tripod
   source: https://www.nea.com/portfolio/tripod
   x-added: '2026-10-18'
@@ -6100,6 +6370,8 @@ companies:
   suggested_slug: ulthera
   in_network: false
   is_api_provider: false
+  url: https://ultherapy.com/
+  x-url-source: web search 2026-10-18
 - name: UltraDNS
   source: https://www.nea.com/portfolio/ultradns
   x-added: '2026-10-18'
@@ -6133,9 +6405,12 @@ companies:
 - name: Upskill
   source: https://www.nea.com/portfolio/upskill
   x-added: '2026-10-18'
-  suggested_slug: upskill
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.teamviewer.com/en/upskill/
+  x-url-source: web search 2026-10-18
+  slug: teamviewer
+  matched_by: domain
 - name: Upstart
   source: https://www.nea.com/portfolio/upstart
   x-added: '2026-10-18'
@@ -6148,9 +6423,12 @@ companies:
 - name: Upwork (formerly oDesk)
   source: https://www.nea.com/portfolio/upwork-formerly-odesk
   x-added: '2026-10-18'
-  suggested_slug: upwork-formerly-odesk
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.upwork.com
+  x-url-source: web search 2026-10-18
+  slug: upwork
+  matched_by: domain
 - name: Upworthy
   source: https://www.nea.com/portfolio/upworthy
   x-added: '2026-10-18'
@@ -6208,9 +6486,12 @@ companies:
 - name: VeloCloud
   source: https://www.nea.com/portfolio/velocloud
   x-added: '2026-10-18'
-  suggested_slug: velocloud
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://sase.vmware.com
+  x-url-source: web search 2026-10-18
+  slug: vmware
+  matched_by: domain
 - name: Veriflow
   source: https://www.nea.com/portfolio/veriflow
   x-added: '2026-10-18'
@@ -6223,6 +6504,8 @@ companies:
   suggested_slug: verona-pharma
   in_network: false
   is_api_provider: false
+  url: https://www.veronapharma.com
+  x-url-source: web search 2026-10-18
 - name: Vertex Pharmaceuticals
   source: https://www.nea.com/portfolio/vertex-pharmaceuticals
   x-added: '2026-10-18'
@@ -6270,9 +6553,12 @@ companies:
 - name: Vimaan Robotics
   source: https://www.nea.com/portfolio/vimaan-robotics
   x-added: '2026-10-18'
-  suggested_slug: vimaan-robotics
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://vimaan.ai/
+  x-url-source: web search 2026-10-18
+  slug: vimaan
+  matched_by: domain
 - name: Virata
   source: https://www.nea.com/portfolio/virata
   x-added: '2026-10-18'
@@ -6308,6 +6594,8 @@ companies:
   suggested_slug: vistagen-therapeutics
   in_network: false
   is_api_provider: false
+  url: https://www.vistagen.com/
+  x-url-source: web search 2026-10-18
 - name: Vitae Pharmaceuticals
   source: https://www.nea.com/portfolio/vitae-pharmaceuticals
   x-added: '2026-10-18'
@@ -6364,6 +6652,8 @@ companies:
   suggested_slug: vuclip
   in_network: false
   is_api_provider: false
+  url: https://www.vuclip.com/
+  x-url-source: web search 2026-10-18
 - name: VytronUS
   source: https://www.nea.com/portfolio/vytronus
   x-added: '2026-10-18'
@@ -6407,15 +6697,20 @@ companies:
 - name: WebEx Communications
   source: https://www.nea.com/portfolio/webex-communications
   x-added: '2026-10-18'
-  suggested_slug: webex-communications
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  url: https://www.webex.com/
+  x-url-source: web search 2026-10-18
+  slug: webex
+  matched_by: domain
 - name: WebMD (Healtheon)
   source: https://www.nea.com/portfolio/webmd-healtheon
   x-added: '2026-10-18'
   suggested_slug: webmd-healtheon
   in_network: false
   is_api_provider: false
+  url: https://www.webmd.com/
+  x-url-source: web search 2026-10-18
 - name: Welltok
   source: https://www.nea.com/portfolio/welltok
   x-added: '2026-10-18'
@@ -6498,15 +6793,6 @@ companies:
   matched_by: domain
   url: https://www.wonder.com/
   x-url-source: network-repo (title-verified 2026-10-18)
-- name: Workday
-  source: https://www.nea.com/portfolio/workday
-  x-added: '2026-10-18'
-  slug: workday
-  in_network: true
-  is_api_provider: true
-  matched_by: domain
-  url: https://www.workday.com/
-  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Workera
   source: https://www.nea.com/portfolio/workera
   x-added: '2026-10-18'
@@ -6531,6 +6817,8 @@ companies:
   suggested_slug: x4-pharmaceuticals
   in_network: false
   is_api_provider: false
+  url: https://www.x4pharma.com/
+  x-url-source: web search 2026-10-18
 - name: Xaira Therapeutics
   source: https://www.nea.com/portfolio/xaira-therapeutics
   x-added: '2026-10-18'
@@ -6626,9 +6914,12 @@ companies:
 - name: Zenas BioPharma
   source: https://www.nea.com/portfolio/zenas-biopharma
   x-added: '2026-10-18'
-  suggested_slug: zenas-biopharma
-  in_network: false
+  in_network: true
   is_api_provider: false
+  url: https://www.zenasbio.com/
+  x-url-source: web search 2026-10-18
+  slug: zenasbio
+  matched_by: domain
 - name: Zero
   source: https://www.nea.com/portfolio/zero
   x-added: '2026-10-18'
@@ -6669,6 +6960,8 @@ companies:
   suggested_slug: zosano
   in_network: false
   is_api_provider: false
+  url: https://www.zosanopharma.com/
+  x-url-source: web search 2026-10-18
 - name: Zumper
   source: https://www.nea.com/portfolio/zumper
   x-added: '2026-10-18'
