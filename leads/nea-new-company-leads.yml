@@ -1332,6 +1332,13 @@ leads:
   source_vc: nea
   source: https://www.nea.com/portfolio/fire1
   stub_created: false
+- name: Firebase
+  url: https://firebase.google.com
+  suggested_slug: google-com
+  sector: ''
+  source_vc: nea
+  source: https://www.nea.com/portfolio/firebase
+  stub_created: false
 - name: Fisker Automotive
   url: ''
   suggested_slug: fisker-automotive
